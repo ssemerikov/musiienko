@@ -1,0 +1,41 @@
+2026-01-29 18:33:39,576 - naqa_scraper - INFO - Session started: naqa_022_20260129_183339_64463c2f
+2026-01-29 18:33:39,577 - naqa_scraper - INFO - Log file: /home/cc/claude_code/design/logs/naqa_022_20260129_183339_64463c2f.log
+2026-01-29 18:33:39,577 - naqa_scraper - INFO - Active filters: {'specialty': '022 Дизайн'}
+2026-01-29 18:33:42,650 - naqa_scraper.browser - INFO - Browser started with anti-detection settings
+2026-01-29 18:33:42,652 - naqa_scraper - INFO - Phase 1: Collecting case URLs
+2026-01-29 18:33:42,655 - naqa_scraper.navigator - INFO - Navigating to NAQA public portal
+2026-01-29 18:33:46,421 - naqa_scraper.browser - INFO - Navigating to: https://public.naqa.gov.ua
+2026-01-29 18:33:47,927 - naqa_scraper.navigator - INFO - Opening filter panel
+2026-01-29 18:33:47,996 - naqa_scraper.navigator - WARNING - Standard filter selectors failed, trying to find filter panel
+2026-01-29 18:33:54,147 - naqa_scraper.navigator - INFO - Applying filters: {'specialty': '022 Дизайн'}
+2026-01-29 18:33:54,147 - naqa_scraper.navigator - INFO - Applying specialty filter: 022 Дизайн
+2026-01-29 18:33:54,165 - naqa_scraper.navigator - WARNING - Could not apply specialty filter
+2026-01-29 18:33:57,471 - naqa_scraper.navigator - INFO - Applying filter
+2026-01-29 18:34:01,095 - naqa_scraper.navigator - INFO - Processing results page 1
+2026-01-29 18:34:01,118 - naqa_scraper.navigator - WARNING - No case elements found on page
+2026-01-29 18:34:01,136 - naqa_scraper.navigator - INFO - Collected 0 case URLs
+2026-01-29 18:34:01,136 - naqa_scraper - INFO - Collected 0 case URLs
+2026-01-29 18:34:01,136 - naqa_scraper - INFO - Limiting to first 3 cases
+2026-01-29 18:34:01,136 - naqa_scraper - INFO - Processing 0 pending cases
+2026-01-29 18:34:01,350 - naqa_scraper.browser - INFO - Browser stopped
+2026-01-29 18:34:01,352 - naqa_scraper.storage - INFO - Saved session JSON to /home/cc/claude_code/design/output/all_programs.json
+2026-01-29 18:34:01,353 - naqa_scraper.storage - INFO - Saved programs CSV to /home/cc/claude_code/design/output/all_programs.csv (0 rows)
+2026-01-29 18:34:01,353 - naqa_scraper.storage - INFO - Saved components CSV to /home/cc/claude_code/design/output/components_summary.csv (0 rows)
+2026-01-29 18:34:01,353 - naqa_scraper.storage - INFO - Saved files manifest to /home/cc/claude_code/design/output/files_manifest.json (0 files)
+2026-01-29 18:34:01,353 - naqa_scraper.storage - INFO - Saved tabs content to /home/cc/claude_code/design/output/tabs_content.json
+2026-01-29 18:34:01,355 - naqa_scraper.checkpoint - INFO - Session finalized
+2026-01-29 18:34:01,355 - naqa_scraper - INFO - ============================================================
+2026-01-29 18:34:01,355 - naqa_scraper - INFO - SCRAPING COMPLETE
+2026-01-29 18:34:01,355 - naqa_scraper - INFO - ============================================================
+2026-01-29 18:34:01,355 - naqa_scraper - INFO - Session ID: naqa_022_20260129_183339_64463c2f
+2026-01-29 18:34:01,355 - naqa_scraper - INFO - Total cases: 0
+2026-01-29 18:34:01,355 - naqa_scraper - INFO - Completed: 0
+2026-01-29 18:34:01,355 - naqa_scraper - INFO - Failed: 0
+2026-01-29 18:34:01,355 - naqa_scraper - INFO - Files downloaded: 0
+2026-01-29 18:34:01,355 - naqa_scraper - INFO - Components extracted: 0
+2026-01-29 18:34:01,355 - naqa_scraper - INFO - Output files:
+2026-01-29 18:34:01,355 - naqa_scraper - INFO -   - session_json: /home/cc/claude_code/design/output/all_programs.json
+2026-01-29 18:34:01,355 - naqa_scraper - INFO -   - programs_csv: /home/cc/claude_code/design/output/all_programs.csv
+2026-01-29 18:34:01,355 - naqa_scraper - INFO -   - components_csv: /home/cc/claude_code/design/output/components_summary.csv
+2026-01-29 18:34:01,355 - naqa_scraper - INFO -   - files_manifest: /home/cc/claude_code/design/output/files_manifest.json
+2026-01-29 18:34:01,355 - naqa_scraper - INFO -   - tabs_content: /home/cc/claude_code/design/output/tabs_content.json

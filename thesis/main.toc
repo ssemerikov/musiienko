@@ -1,0 +1,228 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {ukrainian}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{ПЕРЕЛІК УМОВНИХ ПОЗНАЧЕНЬ}{7}{Item.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{ВСТУП}{8}{table.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}ТЕОРЕТИЧНІ ЗАСАДИ ФОРМУВАННЯ ІНФОРМАЦІЙНО-КОМУНІКАТИВНОЇ КОМПЕТЕНТНОСТІ МАЙБУТНІХ ДИЗАЙНЕРІВ}{12}{section.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.1}ІКК як педагогічна категорія: поняття, структура, специфіка дизайнера}{12}{subsection.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.1.1}Інформаційна грамотність (information literacy)}{15}{subsubsection.1.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.1.2}ІКТ-компетентність (ICT competence)}{16}{subsubsection.1.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.1.3}Цифрова компетентність (digital competence)}{17}{subsubsection.1.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.1.4}Медіакомпетентність (media competence)}{17}{subsubsection.1.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.1.5}Інформаційно-комунікативна компетентність (ІКК)}{18}{subsubsection.1.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2}Трансформація дизайн-освіти в еру ШІ: від виробника до куратора}{33}{subsection.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.1}Темпоральний розподіл публікацій та динаміка дослідницького інтересу}{34}{subsubsection.1.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.2}Географічний розподіл досліджень та глобальний контекст}{35}{subsubsection.1.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.3}Дисциплінарний розподіл та проблема графічного дизайну}{36}{subsubsection.1.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.4}Методологічний ландшафт та якість досліджень}{36}{subsubsection.1.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.5}Технологічний фокус досліджень}{37}{subsubsection.1.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.6}Тематичні кластери: педагогічні фокуси досліджень}{38}{subsubsection.1.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.7}Теоретична недорозвиненість поля досліджень}{40}{subsubsection.1.2.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.8}Результати впровадження ШІ: переваги та обмеження}{42}{subsubsection.1.2.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.9}Упередженість ШІ, етика та академічна доброчесність}{43}{subsubsection.1.2.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.10}Парадигмальний зсув: від виробника до куратора}{45}{subsubsection.1.2.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.11}Промпт-інженерія як нова компетентність}{46}{subsubsection.1.2.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.12}Дизайн навчальних програм та педагогічні імплікації}{47}{subsubsection.1.2.12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.13}Потреби у підвищенні кваліфікації викладачів}{48}{subsubsection.1.2.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.14}Системний аналіз лакун у дослідженнях}{48}{subsubsection.1.2.14}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.15}Імплікації для формування ІКК майбутніх дизайнерів}{50}{subsubsection.1.2.15}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3}Дизайн-освіта в Україні: розвиток компетентностей та європейська інтеграція}{51}{subsection.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.4}Теоретична рамка: інтеграція TPACK, студійної педагогіки та компетентнісного підходу}{72}{subsection.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.1}Модель TPACK у контексті дизайн-освіти}{72}{subsubsection.1.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.2}Студійна педагогіка та рефлексивна практика}{73}{subsubsection.1.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.3}Компетентнісний підхід та стандарт В2 Дизайн}{74}{subsubsection.1.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.4.4}Інтегративна теоретична рамка}{76}{subsubsection.1.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Висновки до першого розділу}{77}{Item.26}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}АНАЛІЗ СТАНУ ФОРМУВАННЯ ІКК У ДИЗАЙН-ОСВІТІ УКРАЇНИ НА ОСНОВІ ДАНИХ}{79}{section.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Загальнонаціональний аналіз 122 українських програм дизайну}{79}{subsection.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.1}Описова статистика}{79}{subsubsection.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.2}Мережевий аналіз навчальних програм}{80}{subsubsection.2.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.3}Тематичне моделювання навчальних дисциплін}{81}{subsubsection.2.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.4}Семантична подібність програм}{82}{subsubsection.2.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.5}Аналіз ШІ/ІКК-розривів}{84}{subsubsection.2.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.6}Висновки загальнонаціонального аналізу}{85}{subsubsection.2.1.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Кейс-стаді КДПУ: три програми дизайну поглиблено}{85}{subsection.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.1}Еволюція навчальних програм 2017--2021}{86}{subsubsection.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.2}Аналіз 132 силабусів: ІКК-ключові слова}{86}{subsubsection.2.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.3}Аналіз опитування випускників}{87}{subsubsection.2.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.4}Аналіз опитування роботодавців}{88}{subsubsection.2.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.5}Аналіз опитування студентів (Moodle 2021)}{89}{subsubsection.2.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.6}Аналіз висновків експертних груп НАЗЯВО}{90}{subsubsection.2.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.7}Синтез кейс-стаді КДПУ}{91}{subsubsection.2.2.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}Міжнародний бенчмаркінг: українська дизайн-освіта у глобальному контексті}{91}{subsection.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.1}Методика бенчмаркінгу}{92}{subsubsection.2.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.2}Результати порівняння}{92}{subsubsection.2.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.3}Ключові спостереження}{93}{subsubsection.2.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.3.4}Найкращі практики для адаптації}{94}{subsubsection.2.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Висновки до другого розділу}{94}{Item.50}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}МОДЕЛЬ ТРАНСФОРМАЦІЇ НАВЧАЛЬНИХ ПРОГРАМ ДЛЯ ФОРМУВАННЯ ІКК}{96}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Структурно-функціональна модель формування ІКК}{96}{subsection.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.1}Мотиваційно-цільовий блок}{97}{subsubsection.3.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.2}Теоретико-методологічний блок}{98}{subsubsection.3.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.3}Змістовий блок}{100}{subsubsection.3.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.4}Організаційно-технологічний блок}{103}{subsubsection.3.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.5}Діагностично-результативний блок}{105}{subsubsection.3.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.6}Візуалізація моделі}{108}{subsubsection.3.1.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.7}Характеристика зв'язків між блоками моделі}{108}{subsubsection.3.1.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Рекомендації щодо трансформації навчальних дисциплін}{110}{subsection.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.1}Принципи трансформації навчальних дисциплін}{110}{subsubsection.3.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.2}Трансформація студійних курсів}{111}{subsubsection.3.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.3}Трансформація курсів цифрового дизайну}{113}{subsubsection.3.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.4}Трансформація теоретичних курсів}{114}{subsubsection.3.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.5}Трансформація професійних курсів}{114}{subsubsection.3.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.6}Трансформація практики та стажування}{117}{subsubsection.3.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.7}Трансформація загальноосвітніх курсів}{119}{subsubsection.3.2.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.8}Нові ШІ-орієнтовані дисципліни}{120}{subsubsection.3.2.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.9}Інтегрована модель 240-кредитного навчального плану}{121}{subsubsection.3.2.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.10}Зведена характеристика навчального плану}{124}{subsubsection.3.2.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.11}Розподіл формування компонентів ІКК за роками}{125}{subsubsection.3.2.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Педагогічні умови та стратегія впровадження}{126}{subsection.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.1}Обґрунтування педагогічних умов}{127}{subsubsection.3.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.2}Взаємозв'язок педагогічних умов}{132}{subsubsection.3.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.3}Стратегія поетапного впровадження}{133}{subsubsection.3.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.4}Хронологічна матриця впровадження}{135}{subsubsection.3.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.5}Ресурсне забезпечення впровадження}{136}{subsubsection.3.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.6}Експертна оцінка моделі}{138}{subsubsection.3.3.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.3.7}Обмеження та перспективи}{140}{subsubsection.3.3.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{Висновки до третього розділу}{141}{Item.137}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{ВИСНОВКИ}{144}{Item.137}%
+\defcounter {refsection}{0}\relax 
+\setcounter {tocdepth}{1}
+\defcounter {refsection}{0}\relax 
+\renewcommand *{\cftsecpresnum }{Додаток~}
+\defcounter {refsection}{0}\relax 
+\renewcommand *{\cftsecaftersnum }{.}
+\defcounter {refsection}{0}\relax 
+\setlength {\cftsecnumwidth }{5.5em}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{ДОДАТКИ}{148}{Item.140}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {А}Список публікацій здобувача за темою дисертації та відомості про апробацію результатів дисертації}{148}{appendix.Alph1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {Б}Інструменти опитування та таблиці первинних даних}{150}{appendix.Alph2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {Б.1}Демографічна характеристика вибірки}{151}{subsection.Alph2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {Б.2}Опитувальник випускників: якість підготовки}{151}{subsection.Alph2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {Б.3}Опитувальник роботодавців: оцінка якості випускників}{152}{subsection.Alph2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {Б.4}Опитування студентів на платформі Moodle}{152}{subsection.Alph2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {Б.5}Результати тесту Крускала--Волліса}{153}{subsection.Alph2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {В}Повні дані аналізу НАЗЯВО}{155}{appendix.Alph3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {В.1}Зведена характеристика 122 програм спеціальності 022 Дизайн}{155}{subsection.Alph3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {В.2}Матриця аналізу ШІ/ІКК-розривів}{155}{subsection.Alph3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {В.3}Метрики мережевого аналізу}{155}{subsection.Alph3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {Г}Повний навчальний план на 240 кредитів ЄКТС}{157}{appendix.Alph4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {Д}Таблиці трансформації дисциплін КДПУ}{162}{appendix.Alph5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {Д.1}Трансформація студійних курсів}{162}{subsection.Alph5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {Д.2}Трансформація курсів цифрового дизайну}{163}{subsection.Alph5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {Д.3}Трансформація теоретичних курсів}{164}{subsection.Alph5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {Д.4}Трансформація професійних курсів}{165}{subsection.Alph5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {Д.5}Трансформація практик та загальноосвітніх курсів}{167}{subsection.Alph5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {Е}Відгуки стейкхолдерів та витяги з акредитаційних звітів}{170}{appendix.Alph6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {Е.1}Кодування висновків експертних груп НАЗЯВО}{170}{subsection.Alph6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {Е.2}Еволюція ІКК-змісту в освітньо-професійних програмах КДПУ}{171}{subsection.Alph6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {Е.3}Ключові рекомендації роботодавців}{171}{subsection.Alph6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {Ж}Анкета експертного оцінювання моделі}{173}{appendix.Alph7}%

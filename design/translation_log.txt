@@ -1,0 +1,23 @@
+============================================================
+UKRAINIAN TO ENGLISH TRANSLATION PIPELINE
+============================================================
+
+[1/4] Initializing translator...
+
+[2/4] Scanning files...
+  Found 4027 text files
+  Found 132 JSON files
+
+[3/4] Translating text files to data/text_english...
+Translating texts:   0%|          | 0/4027 [00:00<?, ?it/s]2026-01-31 14:10:20.324477: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:467] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+E0000 00:00:1769861420.351422 1216306 cuda_dnn.cc:8579] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+E0000 00:00:1769861420.360707 1216306 cuda_blas.cc:1407] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+W0000 00:00:1769861420.383785 1216306 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1769861420.383828 1216306 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1769861420.383835 1216306 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+W0000 00:00:1769861420.383844 1216306 computation_placer.cc:177] computation placer already registered. Please check linkage and avoid linking the same target more than once.
+2026-01-31 14:10:20.389055: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Device set to use cpu
+Translating texts:   0%|          | 1/4027 [02:09<144:34:09, 129.27s/it]

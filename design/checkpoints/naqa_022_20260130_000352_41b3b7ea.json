@@ -1,0 +1,233 @@
+{
+  "session_id": "naqa_022_20260130_000352_41b3b7ea",
+  "created_at": "2026-01-30T00:03:52.215206",
+  "updated_at": "2026-01-30T00:05:15.191473",
+  "phase": "scraping",
+  "case_urls": [
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/14140",
+      "case_id": "14140",
+      "form_url": null,
+      "institution_name": "Черкаський державний фаховий бізнес-коледж",
+      "program_name": "Графічний дизайн"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/13920",
+      "case_id": "13920",
+      "form_url": null,
+      "institution_name": "Київський національний університет будівництва і архітектури",
+      "program_name": "Інтер'єр та обладнання"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/13887",
+      "case_id": "13887",
+      "form_url": null,
+      "institution_name": "Національна академія керівних кадрів культури і мистецтв",
+      "program_name": "Дизайн середовища"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/13847",
+      "case_id": "13847",
+      "form_url": null,
+      "institution_name": "Національна академія керівних кадрів культури і мистецтв",
+      "program_name": "Графічний дизайн"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/13798",
+      "case_id": "13798",
+      "form_url": null,
+      "institution_name": "Львівська національна академія мистецтв",
+      "program_name": "Ілюстрація та медіадизайн"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/13421",
+      "case_id": "13421",
+      "form_url": null,
+      "institution_name": "Львівський національний університет природокористування",
+      "program_name": "Дизайн середовища"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/13375",
+      "case_id": "13375",
+      "form_url": null,
+      "institution_name": "Приватний вищий навчальний заклад \"Український гуманітарний інститут\"",
+      "program_name": "Графічний дизайн"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/13346",
+      "case_id": "13346",
+      "form_url": null,
+      "institution_name": "Західноукраїнський національний університет",
+      "program_name": "Графічний дизайн"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/13180",
+      "case_id": "13180",
+      "form_url": null,
+      "institution_name": "Житомирський державний університет імені Івана Франка",
+      "program_name": "Графічний дизайн"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/13082",
+      "case_id": "13082",
+      "form_url": null,
+      "institution_name": "Національний університет \"Одеська політехніка\"",
+      "program_name": "Архітектурний дизайн"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/13048",
+      "case_id": "13048",
+      "form_url": null,
+      "institution_name": "Волинський національний університет імені Лесі Українки",
+      "program_name": "Графічний дизайн"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/12978",
+      "case_id": "12978",
+      "form_url": null,
+      "institution_name": "Державний торговельно-економічний університет",
+      "program_name": "Дизайн"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/12231",
+      "case_id": "12231",
+      "form_url": null,
+      "institution_name": "Національна академія образотворчого мистецтва і архітектури",
+      "program_name": "Графічний дизайн"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/10931",
+      "case_id": "10931",
+      "form_url": null,
+      "institution_name": "Харківська державна академія дизайну і мистецтв",
+      "program_name": "Дизайн одягу (взуття)"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/10895",
+      "case_id": "10895",
+      "form_url": null,
+      "institution_name": "Харківська державна академія дизайну і мистецтв",
+      "program_name": "Дизайн середовища"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/10848",
+      "case_id": "10848",
+      "form_url": null,
+      "institution_name": "Львівська національна академія мистецтв",
+      "program_name": "Дизайн одягу (взуття)"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/10813",
+      "case_id": "10813",
+      "form_url": null,
+      "institution_name": "Львівська національна академія мистецтв",
+      "program_name": "Графiчний дизайн"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/10808",
+      "case_id": "10808",
+      "form_url": null,
+      "institution_name": "Харківська державна академія дизайну і мистецтв",
+      "program_name": "Графічний дизайн"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/10763",
+      "case_id": "10763",
+      "form_url": null,
+      "institution_name": "Львівська національна академія мистецтв",
+      "program_name": "Дизайн середовища"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/10728",
+      "case_id": "10728",
+      "form_url": null,
+      "institution_name": "Харківська державна академія дизайну і мистецтв",
+      "program_name": "Мультимедійний дизайн"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/10575",
+      "case_id": "10575",
+      "form_url": null,
+      "institution_name": "Київський національний університет будівництва і архітектури",
+      "program_name": "Інтер’єр та обладнання"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/10076",
+      "case_id": "10076",
+      "form_url": null,
+      "institution_name": "Київський національний університет технологій та дизайну",
+      "program_name": "Дизайн одягу"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/10039",
+      "case_id": "10039",
+      "form_url": null,
+      "institution_name": "Київський національний університет технологій та дизайну",
+      "program_name": "Дизайн середовища"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/9997",
+      "case_id": "9997",
+      "form_url": null,
+      "institution_name": "Тернопільський національний педагогічний університет імені Володимира Гнатюка",
+      "program_name": "Дизайн середовища"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/9996",
+      "case_id": "9996",
+      "form_url": null,
+      "institution_name": "Тернопільський національний педагогічний університет імені Володимира Гнатюка",
+      "program_name": "Графічний дизайн"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/8857",
+      "case_id": "8857",
+      "form_url": null,
+      "institution_name": "Львівська національна академія мистецтв",
+      "program_name": "Дизайн одягу (взуття)"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/8856",
+      "case_id": "8856",
+      "form_url": null,
+      "institution_name": "Львівська національна академія мистецтв",
+      "program_name": "Дизайн середовища"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/8855",
+      "case_id": "8855",
+      "form_url": null,
+      "institution_name": "Львівська національна академія мистецтв",
+      "program_name": "Графiчний дизайн"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/7818",
+      "case_id": "7818",
+      "form_url": null,
+      "institution_name": "Харківський національний університет міського господарства імені О.М. Бекетова",
+      "program_name": "Дизайн"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/7466",
+      "case_id": "7466",
+      "form_url": null,
+      "institution_name": "Державний заклад \"Луганський національний університет імені Тараса Шевченка\"",
+      "program_name": "Графічний дизайн"
+    },
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/6948",
+      "case_id": "6948",
+      "form_url": null,
+      "institution_name": "Національний університет \"Львівська політехніка\"",
+      "program_name": "Дизайн середовища"
+    }
+  ],
+  "completed_cases": [],
+  "failed_cases": [],
+  "current_index": 0,
+  "total_cases": 31,
+  "statistics": {
+    "total_files_downloaded": 0,
+    "total_components_extracted": 0
+  }
+}

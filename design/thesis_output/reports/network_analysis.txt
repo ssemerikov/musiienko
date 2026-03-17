@@ -1,0 +1,69 @@
+============================================================
+CURRICULUM NETWORK ANALYSIS REPORT
+Ukrainian Design Education Programs (022)
+============================================================
+
+## NETWORK OVERVIEW
+
+Nodes (courses): 1240
+Edges (co-occurrences): 7524
+Density: 0.0098
+Average degree: 12.14
+Average clustering coefficient: 0.3641
+Connected components: 732
+Largest component size: 507 nodes
+
+## TOP CENTRAL COURSES (by degree)
+
+  Deg | Betweenness | Course Name (English)
+  --------------------------------------------------
+  315 | 0.0399    | Philosophy
+  247 | 0.0150    | Painting
+  225 | 0.0122    | Drawing
+  204 | 0.0280    | Practice
+  160 | 0.0062    | Foreign Language
+  138 | 0.0056    | Ukrainian for Professional Communication
+  133 | 0.0112    | Design/Projecting
+  132 | 0.0170    | Pre-Diploma Practice
+  130 | 0.0073    | Ukrainian for Prof. Purposes
+  113 | 0.0026    | Educational Practice
+  104 | 0.0059    | Graphics
+  100 | 0.0014    | Art History
+   99 | 0.0021    | Practice
+   94 | 0.0031    | Research Studies
+   91 | 0.0015    | Design/Projecting
+
+## COMMUNITY DETECTION (Louvain)
+
+
+Community 1 (69 courses):
+  Representative courses: Practice, Graphics, Work/Project
+
+Community 2 (60 courses):
+  Representative courses: Pre-Diploma Practice, History of Foreign, Research Fundamentals
+
+Community 3 (56 courses):
+  Representative courses: Painting, Drawing, Design/Projecting
+
+Community 4 (53 courses):
+  Representative courses: Art History, Practice, Cultural History
+
+Community 5 (52 courses):
+  Representative courses: Professional Foreign Language, Design, Intellectual Property
+
+Community 6 (49 courses):
+  Representative courses: Research Studies, Design Theory and Methods, Ergonomics
+
+Community 7 (49 courses):
+  Representative courses: Philosophy, Foreign Language, Ukrainian for Professional Communication
+
+Community 8 (45 courses):
+  Representative courses: Physical Education, Ethno-design, Methodology and Organization
+
+Community 9 (30 courses):
+  Representative courses: Design/Projecting, Art History, Painting
+
+Community 10 (23 courses):
+  Representative courses: Graphics, Foreign Language, Design/Projecting
+
+============================================================

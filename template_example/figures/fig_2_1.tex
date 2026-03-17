@@ -1,0 +1,64 @@
+\resizebox{\textwidth}{!}{%
+\begin{tikzpicture}[node distance=0.5cm and 0.6cm]
+\footnotesize
+
+% Title
+\node[dia/header=15cm] (title) {ДИДАКТИЧНІ ПІДХОДИ};
+
+% === LEFT COLUMN (3 approaches) ===
+\node[dia/lrbox=4.5cm, below=2.0cm of title.south, xshift=-5.3cm] (a1) {%
+  \textbf{Аксіологічний}\\[2pt]
+  {\small Забезпечує етичну та гуманістичну розробку контенту}%
+};
+\node[dia/lrbox=4.5cm, below=0.5cm of a1] (a2) {%
+  \textbf{Синергетичний}\\[2pt]
+  {\small Сприяє новим знанням через взаємодію між здобувачами, технологіями та середовищем}%
+};
+\node[dia/lrbox=4.5cm, below=0.5cm of a2] (a3) {%
+  \textbf{Компетентнісний}\\[2pt]
+  {\small Фокусується на розвитку інтегрованих професійних навичок, необхідних для створення ІОР}%
+};
+
+% === CENTER COLUMN (5 approaches) ===
+\node[dia/lrbox=4.5cm, below=2.0cm of title.south] (b1) {%
+  \textbf{Конструктивістський}\\[2pt]
+  {\small Залучає здобувачів до побудови власного знання}%
+};
+\node[dia/lrbox=4.5cm, below=0.5cm of b1] (b2) {%
+  \textbf{Інноваційний}\\[2pt]
+  {\small Інтегрує новітні технології та інструменти}%
+};
+\node[dia/lrbox=4.5cm, below=0.5cm of b2] (b3) {%
+  \textbf{Когнітивний}\\[2pt]
+  {\small Враховує когнітивні процеси при проєктуванні навчального досвіду}%
+};
+\node[dia/lrbox=4.5cm, below=0.5cm of b3] (b4) {%
+  \textbf{Контекстний}\\[2pt]
+  {\small Адаптує ресурси до реальних освітніх ситуацій}%
+};
+\node[dia/lrbox=4.5cm, below=0.5cm of b4] (b5) {%
+  \textbf{Рефлексивний}\\[2pt]
+  {\small Заохочує самооцінку та вдосконалення}%
+};
+
+% === RIGHT COLUMN (3 approaches) ===
+\node[dia/lrbox=4.5cm, below=2.0cm of title.south, xshift=5.3cm] (c1) {%
+  \textbf{Системний}\\[2pt]
+  {\small Розглядає розробку як цілісну систему з взаємопов'язаними компонентами}%
+};
+\node[dia/lrbox=4.5cm, below=0.5cm of c1] (c2) {%
+  \textbf{Інтегративний}\\[2pt]
+  {\small Поєднує технічні, дидактичні та психологічні компоненти цілісного навчання}%
+};
+\node[dia/lrbox=4.5cm, below=0.5cm of c2] (c3) {%
+  \textbf{Діяльнісний}\\[2pt]
+  {\small Підкреслює практичне навчання через активну участь у розробці}%
+};
+
+% Lines from title to column tops
+\draw[dia/line] (title.south) -- (a1.north);
+\draw[dia/line] (title.south) -- (b1.north);
+\draw[dia/line] (title.south) -- (c1.north);
+
+\end{tikzpicture}%
+}

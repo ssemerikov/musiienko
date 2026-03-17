@@ -1,0 +1,80 @@
+\begin{figure}[!h]
+\centering
+\begin{tikzpicture}
+\begin{axis}[
+    ybar stacked,
+    width=0.85\textwidth,
+    height=8cm,
+    bar width=35pt,
+    ylabel={Частка (\%)},
+    ymin=0, ymax=105,
+    symbolic x coords={Теоретико-аналітичний, Практико-розвивальний, Інтегративно-рефлексивний},
+    xtick=data,
+    xticklabel style={font=\small, text width=3.5cm, align=center},
+    yticklabel style={font=\small},
+    legend style={
+        at={(0.5,-0.3)},
+        anchor=north,
+        legend columns=3,
+        font=\small,
+        draw=none,
+    },
+    grid=major,
+    grid style={gray!20},
+    ymajorgrids=true,
+    xmajorgrids=false,
+]
+
+% Modeling (bottom layer)
+\addplot+[ybar, fill=blue!70, draw=blue!90] coordinates {
+    (Теоретико-аналітичний, 46.9)
+    (Практико-розвивальний, 43.4)
+    (Інтегративно-рефлексивний, 38.6)
+};
+\addlegendentry{Моделювання}
+
+% Scaffolding
+\addplot+[ybar, fill=green!60, draw=green!80] coordinates {
+    (Теоретико-аналітичний, 4.8)
+    (Практико-розвивальний, 7.0)
+    (Інтегративно-рефлексивний, 6.7)
+};
+\addlegendentry{Скафолдинг}
+
+% Questioning
+\addplot+[ybar, fill=orange!60, draw=orange!80] coordinates {
+    (Теоретико-аналітичний, 14.8)
+    (Практико-розвивальний, 11.7)
+    (Інтегративно-рефлексивний, 15.7)
+};
+\addlegendentry{Запитування}
+
+% Feedback
+\addplot+[ybar, fill=violet!50, draw=violet!70] coordinates {
+    (Теоретико-аналітичний, 16.2)
+    (Практико-розвивальний, 15.2)
+    (Інтегративно-рефлексивний, 13.4)
+};
+\addlegendentry{Зворотний зв'язок}
+
+% Troubleshooting
+\addplot+[ybar, fill=red!50, draw=red!70] coordinates {
+    (Теоретико-аналітичний, 14.8)
+    (Практико-розвивальний, 20.6)
+    (Інтегративно-рефлексивний, 21.3)
+};
+\addlegendentry{Вирішення проблем}
+
+% Real-world connection
+\addplot+[ybar, fill=cyan!50, draw=cyan!70] coordinates {
+    (Теоретико-аналітичний, 2.6)
+    (Практико-розвивальний, 2.2)
+    (Інтегративно-рефлексивний, 4.3)
+};
+\addlegendentry{Зв'язок з практикою}
+
+\end{axis}
+\end{tikzpicture}
+\caption{Розподіл стратегій викладання за етапами методики навчання (\%)}
+\label{fig:teaching_strategies}
+\end{figure}

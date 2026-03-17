@@ -1,0 +1,185 @@
+\documentclass[a4paper,14pt]{extarticle}
+
+\usepackage{tempora}         % Times New Roman-like font with Cyrillic support
+
+\usepackage{setup}
+\usepackage[
+sorting=abyrvalg,
+style=gost-numeric,
+language=auto,
+autolang=other,
+maxcitenames=2,
+mincitenames=1,
+backend=biber]{biblatex}
+% Suppress automatic "p." prefix in postnotes — we use manual "c.~" (Ukrainian)
+\DeclareFieldFormat{postnote}{#1}
+\DeclareFieldFormat{multipostnote}{#1}
+\DeclareSortingTemplate{abyrvalg}{
+	\sort{
+		\field{presort}
+	}
+	\sort[final]{
+		\field{sortkey}
+	}
+	\sort{
+		\field{sortname}
+		\field{author}
+		\field{editor}
+		\field{sorttitle}
+		\field{title}
+		\field{journaltitle}
+	}
+	\sort{
+		\field{sortyear}
+		\field{year}
+	}
+	\sort{
+		\field{sorttitle}
+		\field{author}
+		\field{editor}
+		\field{title}
+		\field{booktitle}
+		\field{journaltitle}
+	}
+}
+
+\usepackage{totcount}
+\usepackage[figure,table]{totalcount}
+\newtotcounter{citenum}
+\AtEveryBibitem{\stepcounter{citenum}}
+
+
+\addbibresource{references.bib}
+
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+\usepackage{pgf}
+
+\usepackage{longtable}
+\usepackage{pifont}      % \ding{55} cross marks in gap analysis tables
+\usepackage{tikz}
+\usetikzlibrary{shapes,shapes.geometric,arrows,arrows.meta,positioning,chains,fit,calc,decorations.pathreplacing,backgrounds}
+
+
+% Define block style
+\tikzstyle{block} = [rectangle, draw, fill=blue!20, text centered, rounded corners, minimum height=2em, text width=5cm]
+% Define line style
+\tikzstyle{line} = [draw, -latex']
+
+
+\setlist{nosep, noitemsep}
+
+% Custom \citet: Author [N] for 1-2 authors, Author та ін. [N] for 3+
+\DeclareNameFormat{citet-name}{%
+  \ifnumgreater{\value{listtotal}}{2}
+    {% 3+ authors: print only first name + "та ін."
+      \ifnumequal{\value{listcount}}{1}
+        {\namepartfamily\addspace\foreignlanguage{ukrainian}{та~ін\adddot}}
+        {}%
+    }
+    {% 1-2 authors: print all family names with comma separator
+      \namepartfamily%
+      \ifthenelse{\value{listcount}<\value{liststop}}
+        {\addcomma\addspace}
+        {}%
+    }%
+}
+\DeclareCiteCommand{\citetname}
+  {}
+  {\printnames[citet-name]{author}}
+  {\multicitedelim}
+  {}
+\newcommand*{\citet}[1]{\citetname{#1}~\cite{#1}}
+
+
+% Musiienko's publications list (§4 Наказу МОН №40)
+\newcommand{\printpratsi}{
+
+\begin{center}
+    \textit{Наукові праці, в яких опубліковані основні наукові результати дисертації:}
+\end{center}
+
+\begin{enumerate}
+    \item \fullcite{Musiienko2026ScopingReview}
+    \item \fullcite{Musiienko2025DesignEducation}
+\end{enumerate}
+
+\begin{center}
+    \textit{Наукові праці, які засвідчують апробацію матеріалів дисертації:}
+\end{center}
+
+\begin{enumerate}[resume]
+    \item \fullcite{Musiienko2021Landscape}
+    \item \fullcite{Musiienko2023Ornament}
+    \item \fullcite{Musiienko2023Aesthetic}
+    \item \fullcite{Musiienko2023Postmodernism}
+    \item \fullcite{Musiienko2026InclusiveDesign}
+\end{enumerate}
+
+}
+
+
+% Predefined colors for pgfplots charts (avoids TexLive 2021 xcolor parsing bug)
+\definecolor{temporalblue}{RGB}{153,179,230}
+\definecolor{temporalred}{RGB}{230,77,77}
+\definecolor{themebarfill}{RGB}{86,139,86}
+\definecolor{themebaredge}{RGB}{51,102,51}
+
+\usepgfplotslibrary{polar}
+\pgfplotsset{compat=1.18}
+
+\begin{document}
+
+\input{chapters/title-page}
+\clearpage
+\input{chapters/summary}
+\clearpage
+
+\renewcommand{\contentsname}{\hspace*{\fill}\bfseries\Large ЗМІСТ\hspace*{\fill}}
+
+\tableofcontents
+
+\clearpage
+
+\input{chapters/umovni_poznachennya}
+\clearpage
+
+\input{chapters/vstup}
+
+\clearpage
+
+% РОЗДІЛ 1: Теоретичні засади формування ІКК майбутніх дизайнерів
+\input{chapters/chap1/chapter1.1}
+\input{chapters/chap1/chapter1.2}
+\input{chapters/chap1/chapter1.3}
+\input{chapters/chap1/chapter1.4}
+\input{chapters/chap1/chapter1.X}
+
+\clearpage
+
+% РОЗДІЛ 2: Аналіз стану формування ІКК у дизайн-освіті України на основі даних
+\input{chapters/chap2/chapter2.1}
+\input{chapters/chap2/chapter2.2}
+\input{chapters/chap2/chapter2.3}
+\input{chapters/chap2/chapter2.X}
+
+\clearpage
+
+% РОЗДІЛ 3: Модель трансформації навчальних програм для формування ІКК
+\input{chapters/chap3/chapter3.1}
+\input{chapters/chap3/chapter3.2}
+\input{chapters/chap3/chapter3.3}
+\input{chapters/chap3/chapter3.X}
+
+\clearpage
+
+\input{chapters/vysnovky}
+
+\clearpage
+\printbibliography[heading=bibintoc,title={СПИСОК ВИКОРИСТАНИХ ДЖЕРЕЛ}]
+
+\clearpage
+\input{chapters/appendix}
+
+
+\end{document}

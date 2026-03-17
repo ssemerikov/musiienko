@@ -1,0 +1,138 @@
+\noindent\resizebox{\textwidth}{!}{%
+\begin{tikzpicture}[node distance=0.4cm, every node/.style={font=\footnotesize}]
+
+% ============================================================
+% BLOCK 1: МОТИВАЦІЙНО-ЦІЛЬОВИЙ БЛОК
+% ============================================================
+\node[dia/header=14.5cm, minimum height=0.8cm] (h1) {МОТИВАЦІЙНО-ЦІЛЬОВИЙ БЛОК};
+
+\node[dia/lrbox=14.5cm, below=0.1cm of h1, inner sep=3pt] (b1) {%
+  \begin{minipage}[t]{5.0cm}\setlength{\parskip}{0pt}\setlength{\baselineskip}{10pt}%
+  \textbf{\textit{Мета:}} формування готовності майбутніх учителів інформатики до розробки і педагогічно доцільного використання імерсивних освітніх ресурсів у професійній діяльності.
+  \end{minipage}%
+  \hfill
+  \begin{minipage}[t]{8.7cm}\setlength{\parskip}{0pt}\setlength{\baselineskip}{10pt}%
+  \textbf{\textit{Завдання:}}\\[1pt]
+  \checkmark~розвиток стійкої мотивації до опанування ІТ як складника сучасної педагогічної практики;\\[0pt]
+  \checkmark~забезпечення досягнення очікуваних результатів професійної підготовки, пов'язаних із проєктуванням і реалізацією ІОР;\\[0pt]
+  \checkmark~формування професійної рефлексії майбутніх учителів інформатики щодо власної діяльності у сфері створення та застосування ІОР
+  \end{minipage}%
+};
+
+\node[draw, thick, inner sep=0pt, fit=(h1)(b1)] (block1) {};
+
+% ============================================================
+% BLOCK 2: ТЕОРЕТИКО-МЕТОДОЛОГІЧНИЙ БЛОК
+% ============================================================
+\node[dia/header=14.5cm, minimum height=0.8cm, below=0.7cm of block1.south] (h2) {ТЕОРЕТИКО-МЕТОДОЛОГІЧНИЙ БЛОК};
+
+\node[dia/lrbox=14.5cm, below=0.1cm of h2, inner sep=3pt] (b2) {%
+  \begin{minipage}[t]{6.5cm}\setlength{\parskip}{0pt}\setlength{\baselineskip}{10pt}%
+  \textbf{\textit{Дидактичні підходи:}} аксіологічний, діяльнісний, інноваційний, інтегративний, когнітивний, компетентнісний, конструктивістський, контекстний, рефлексивний, синергетичний і системний.
+  \end{minipage}%
+  \hfill
+  \begin{minipage}[t]{7.2cm}\setlength{\parskip}{0pt}\setlength{\baselineskip}{10pt}%
+  \textbf{\textit{Принципи навчання:}} науковість, інтерактивність, варіативність, практична спрямованість, інтегрованість, рефлексивність, креативність, безперервність.
+  \end{minipage}%
+};
+
+\node[draw, thick, inner sep=0pt, fit=(h2)(b2)] (block2) {};
+\draw[dia/darrow] (block1.south) -- (block2.north);
+
+% ============================================================
+% BLOCK 3: ЗМІСТОВИЙ БЛОК
+% ============================================================
+\node[dia/header=14.5cm, minimum height=0.8cm, below=0.7cm of block2.south] (h3) {ЗМІСТОВИЙ БЛОК};
+
+\node[dia/lrbox=14.5cm, below=0.1cm of h3, inner sep=3pt] (b3) {%
+  \begin{minipage}[t]{6.5cm}\setlength{\parskip}{0pt}\setlength{\baselineskip}{10pt}%
+  \textbullet~навчальні дисципліни професійної підготовки (обов'язкові компоненти ОПП);\\[0pt]
+  \textbullet~вибіркові дисципліни, спрямовані на поглиблене вивчення програмування, комп'ютерної графіки, моделювання, інтерактивних технологій, основ VR/AR/MR та дидактичного дизайну цифрових освітніх ресурсів.
+  \end{minipage}%
+  \hfill
+  \begin{minipage}[t]{7.2cm}\setlength{\parskip}{0pt}\setlength{\baselineskip}{10pt}%
+  \textbullet~навчально-дослідницька та проєктна діяльність здобувачів;\\[0pt]
+  \textbullet~практична підготовка охоплює педагогічну та виробничу практики, у межах яких майбутні вчителі інформатики апробують розроблені ІОР у реальному або наближеному до реального освітньому середовищі.
+  \end{minipage}%
+};
+
+\node[draw, thick, inner sep=0pt, fit=(h3)(b3)] (block3) {};
+\draw[dia/darrow] (block2.south) -- (block3.north);
+
+% ============================================================
+% BLOCK 4: ОРГАНІЗАЦІЙНО-ТЕХНОЛОГІЧНИЙ БЛОК
+% ============================================================
+\node[dia/header=14.5cm, minimum height=0.8cm, below=0.7cm of block3.south] (h4) {ОРГАНІЗАЦІЙНО-ТЕХНОЛОГІЧНИЙ БЛОК};
+
+\node[dia/lrbox=14.5cm, below=0.1cm of h4, inner sep=3pt] (b4) {%
+  \begin{minipage}[t]{4.2cm}\setlength{\parskip}{0pt}\setlength{\baselineskip}{10pt}%
+  \textbf{\textit{Форми:}} лекції, лабораторні та практичні заняття, самостійна робота здобувачів, тренінги, у тому числі комп'ютерні, проєктна діяльність, ділові ігри.
+  \end{minipage}%
+  \hfill
+  \begin{minipage}[t]{4.8cm}\setlength{\parskip}{0pt}\setlength{\baselineskip}{10pt}%
+  \textbf{\textit{Методи:}} пояснювально-ілюстративні, частково-пошукові, дослідницькі, евристичні, бесіди, дискусії, метод проєктів, інтерактивні/інноваційні, метод проблемного викладу, аналізу ситуацій.
+  \end{minipage}%
+  \hfill
+  \begin{minipage}[t]{4.2cm}\setlength{\parskip}{0pt}\setlength{\baselineskip}{10pt}%
+  \textbf{\textit{Засоби:}} словесні, наочні, технічні, засоби навчання, прикладне програмне забезпечення спеціального призначення.
+  \end{minipage}%
+};
+
+\node[draw, thick, inner sep=0pt, fit=(h4)(b4)] (block4) {};
+\draw[dia/darrow] (block3.south) -- (block4.north);
+
+% ============================================================
+% BLOCK 5: РЕФЛЕКСИВНО-ОЦІННИЙ БЛОК
+% ============================================================
+\node[dia/header=14.5cm, minimum height=0.8cm, below=0.7cm of block4.south] (h5) {РЕФЛЕКСИВНО-ОЦІННИЙ БЛОК};
+
+\node[dia/lrbox=14.5cm, below=0.1cm of h5, inner sep=3pt] (b5) {%
+  \begin{minipage}[t]{4.2cm}\setlength{\parskip}{0pt}\setlength{\baselineskip}{10pt}%
+  \textbf{\textit{Компоненти:}} когнітивний; мотиваційно-ціннісний; операційно-діяльнісний; рефлексивний
+  \end{minipage}%
+  \hfill
+  \begin{minipage}[t]{4.8cm}\setlength{\parskip}{0pt}\setlength{\baselineskip}{10pt}%
+  \textbf{\textit{Критерії:}} мотиваційно-ціннісний; діяльнісно-практичний; методично-дидактичний; когнітивно-результативний
+  \end{minipage}%
+  \hfill
+  \begin{minipage}[t]{4.2cm}\setlength{\parskip}{0pt}\setlength{\baselineskip}{10pt}%
+  \textbf{\textit{Рівні:}} Високий; Середній; Низький
+  \end{minipage}%
+};
+
+\node[draw, thick, inner sep=0pt, fit=(h5)(b5)] (block5) {};
+\draw[dia/darrow] (block4.south) -- (block5.north);
+
+% ============================================================
+% LEFT SIDEBAR: ПЕДАГОГІЧНІ УМОВИ (with arrows to each block)
+% ============================================================
+% Sidebar rectangle spanning all 5 blocks
+% Use fit to auto-size, then overlay text
+\coordinate (sbar mid) at ($(block1.north west)!0.5!(block5.south west) + (-1.8cm,0)$);
+\node[draw, thick, rotate=90, anchor=center,
+      minimum height=2.4cm,
+      font=\footnotesize\bfseries, text centered, inner sep=2pt,
+      minimum width=20cm]
+  at (sbar mid) (sidebar) {ПЕДАГОГІЧНІ УМОВИ};
+
+% Arrows from sidebar right edge to each block
+\coordinate (sbar edge) at ($(sbar mid) + (1.2cm,0)$);
+\draw[dia/arrow] (sbar edge |- block1) -- (block1.west);
+\draw[dia/arrow] (sbar edge |- block2) -- (block2.west);
+\draw[dia/arrow] (sbar edge |- block3) -- (block3.west);
+\draw[dia/arrow] (sbar edge |- block4) -- (block4.west);
+\draw[dia/arrow] (sbar edge |- block5) -- (block5.west);
+
+% ============================================================
+% BOTTOM: Результат
+% ============================================================
+\node[dia/lrbox=14.5cm, below=0.7cm of block5.south, inner sep=3pt] (result) {%
+  \begin{minipage}[t]{14.1cm}\setlength{\parskip}{0pt}\setlength{\baselineskip}{10pt}%
+  \textbf{\textit{Результат:}} готовність майбутніх учителів інформатики до реалізації методики розробки імерсивних освітніх ресурсів, що забезпечує інтеграцію технологічних, дидактичних і проєктних умінь у процесі фахової підготовки та їх застосування у реальних педагогічних ситуаціях.%
+  \end{minipage}%
+};
+
+\draw[dia/arrow] (block5.south) -- (result.north);
+
+\end{tikzpicture}%
+}

@@ -1,0 +1,41 @@
+{
+  "generated_at": "2026-01-31T13:28:16.018642",
+  "levels": {
+    "Bachelor": {
+      "cases": 74,
+      "pdf_files": 3319,
+      "text_files": 3319,
+      "pdf_size_mb": 2530.8,
+      "text_characters": 95762396,
+      "text_characters_millions": 95.76,
+      "coverage_pct": 100.0
+    },
+    "Master": {
+      "cases": 43,
+      "pdf_files": 664,
+      "text_files": 664,
+      "pdf_size_mb": 800.4,
+      "text_characters": 19421426,
+      "text_characters_millions": 19.42,
+      "coverage_pct": 100.0
+    },
+    "PhD": {
+      "cases": 5,
+      "pdf_files": 44,
+      "text_files": 44,
+      "pdf_size_mb": 56.5,
+      "text_characters": 830676,
+      "text_characters_millions": 0.83,
+      "coverage_pct": 100.0
+    }
+  },
+  "totals": {
+    "cases": 122,
+    "pdf_files": 4027,
+    "text_files": 4027,
+    "pdf_size_mb": 3387.6,
+    "text_characters": 116014498,
+    "text_characters_millions": 116.01,
+    "coverage_pct": 100.0
+  }
+}

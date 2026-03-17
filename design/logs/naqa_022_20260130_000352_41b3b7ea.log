@@ -1,0 +1,52 @@
+2026-01-30 00:03:52,214 - naqa_scraper - INFO - Session started: naqa_022_20260130_000352_41b3b7ea
+2026-01-30 00:03:52,214 - naqa_scraper - INFO - Log file: /home/cc/claude_code/design/logs/naqa_022_20260130_000352_41b3b7ea.log
+2026-01-30 00:03:52,214 - naqa_scraper - INFO - Active filters: {'specialty': '022 Дизайн', 'degree_level': 'Бакалавр'}
+2026-01-30 00:03:53,011 - naqa_scraper.browser - INFO - Browser started with anti-detection settings
+2026-01-30 00:03:53,011 - naqa_scraper - INFO - Phase 1: Collecting case URLs
+2026-01-30 00:03:53,012 - naqa_scraper.navigator - INFO - Navigating to NAQA public portal
+2026-01-30 00:03:55,499 - naqa_scraper.browser - INFO - Navigating to: https://public.naqa.gov.ua
+2026-01-30 00:03:58,826 - naqa_scraper.navigator - INFO - Opening filter panel
+2026-01-30 00:04:02,083 - naqa_scraper.navigator - INFO - Filter panel opened
+2026-01-30 00:04:02,083 - naqa_scraper.navigator - INFO - Applying filters: {'specialty': '022 Дизайн', 'degree_level': 'Бакалавр'}
+2026-01-30 00:04:02,083 - naqa_scraper.navigator - INFO - Selecting Спеціальність: 022 Дизайн (dropdown index 0)
+2026-01-30 00:04:03,261 - naqa_scraper.navigator - INFO - Selected Спеціальність: 022 Дизайн
+2026-01-30 00:04:03,802 - naqa_scraper.navigator - INFO - Selecting Статус: 20.1 (dropdown index 2)
+2026-01-30 00:04:04,928 - naqa_scraper.navigator - INFO - Selected Статус: 20.1
+2026-01-30 00:04:05,478 - naqa_scraper.navigator - INFO - Selecting Рівень вищої освіти: Бакалавр
+2026-01-30 00:04:06,007 - naqa_scraper.navigator - INFO - Selected Рівень вищої освіти: Бакалавр
+2026-01-30 00:04:10,807 - naqa_scraper.navigator - INFO - Clicking Apply button
+2026-01-30 00:04:12,853 - naqa_scraper.navigator - INFO - Filter applied
+2026-01-30 00:04:13,865 - naqa_scraper.navigator - INFO - Processing results page 1
+2026-01-30 00:04:13,869 - naqa_scraper.navigator - INFO - Found 5 cases on page 1
+2026-01-30 00:04:19,523 - naqa_scraper.navigator - INFO - Processing results page 2
+2026-01-30 00:04:19,528 - naqa_scraper.navigator - INFO - Found 5 cases on page 2
+2026-01-30 00:04:25,055 - naqa_scraper.navigator - INFO - Processing results page 3
+2026-01-30 00:04:25,060 - naqa_scraper.navigator - INFO - Found 5 cases on page 3
+2026-01-30 00:04:29,983 - naqa_scraper.navigator - INFO - Processing results page 4
+2026-01-30 00:04:29,987 - naqa_scraper.navigator - INFO - Found 5 cases on page 4
+2026-01-30 00:04:34,399 - naqa_scraper.navigator - INFO - Processing results page 5
+2026-01-30 00:04:34,404 - naqa_scraper.navigator - INFO - Found 5 cases on page 5
+2026-01-30 00:04:39,519 - naqa_scraper.navigator - INFO - Processing results page 6
+2026-01-30 00:04:39,523 - naqa_scraper.navigator - INFO - Found 5 cases on page 6
+2026-01-30 00:04:45,115 - naqa_scraper.navigator - INFO - Processing results page 7
+2026-01-30 00:04:45,118 - naqa_scraper.navigator - INFO - Found 1 cases on page 7
+2026-01-30 00:05:15,189 - naqa_scraper.navigator - INFO - Collected 31 case URLs
+2026-01-30 00:05:15,191 - naqa_scraper - INFO - Collected 31 case URLs
+2026-01-30 00:05:15,206 - naqa_scraper - INFO - Processing 31 pending cases
+2026-01-30 00:05:15,206 - naqa_scraper - INFO - Scraping case: 14140
+2026-01-30 00:05:17,861 - naqa_scraper.browser - INFO - Navigating to: https://public.naqa.gov.ua/v2/accreditation-folder/14140
+2026-01-30 00:05:23,145 - naqa_scraper.navigator - INFO - Expanding section: button:has-text("Відомості про СО")
+2026-01-30 00:05:24,207 - naqa_scraper.navigator - INFO - Clicking Form SE button: button:has-text("Переглянути форму СО")
+2026-01-30 00:05:27,264 - naqa_scraper.navigator - INFO - Navigated to Form SE: https://public.naqa.gov.ua/v2/form-se/14140/view
+2026-01-30 00:05:27,265 - naqa_scraper.extractor - INFO - Extracting Form SE: 14140
+2026-01-30 00:05:30,311 - naqa_scraper.extractor - INFO - Found 16 tabs on page
+2026-01-30 00:06:20,985 - naqa_scraper.extractor - WARNING - Could not click tab 10, extracting visible content
+2026-01-30 00:06:49,700 - naqa_scraper.extractor - INFO - Clicking Tab 12 (Таблиця 1) to access educational components
+2026-01-30 00:06:51,776 - naqa_scraper.extractor - INFO - Found Table 1 in visible tabpanel
+2026-01-30 00:06:53,114 - naqa_scraper.extractor - INFO - Extracted 34 educational components from Table 1
+2026-01-30 00:06:56,944 - naqa_scraper.extractor - INFO - Extracted 16 tabs, 34 components, 1 tables
+2026-01-30 00:06:57,056 - naqa_scraper.downloader - INFO - Starting file downloads for case 14140
+2026-01-30 00:06:57,056 - naqa_scraper.downloader - INFO - Downloading main documents
+2026-01-30 00:06:57,081 - naqa_scraper.downloader - INFO - Downloading files from tabs
+2026-01-30 00:07:08,671 - naqa_scraper.downloader - INFO - Downloading Table 1 component files
+2026-01-30 00:07:08,674 - naqa_scraper.downloader - INFO - Navigating to Tab 12 (Таблиця 1) for downloads

@@ -1,0 +1,857 @@
+{
+  "total_pdfs": 106,
+  "successful": 106,
+  "failed": 0,
+  "total_characters": 2601027,
+  "languages": "ukr+eng",
+  "files": [
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/3575/components/009_НК21._Ергономіка/Ергономіка_Рекомендації_що_до_самостійного_вивчення_дисципліни_під_час_карантину_2_курс.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/3575/components/009_НК21._Ергономіка/Ергономіка_Рекомендації_що_до_самостійного_вивчення_дисципліни_під_час_карантину_2_курс.txt",
+      "chars": 5654,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/000_Філософія/ОК3.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/000_Філософія/ОК3.txt",
+      "chars": 8989,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/011_Художньо-проєктна_практика/ОК33.3.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/011_Художньо-проєктна_практика/ОК33.3.txt",
+      "chars": 21973,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/017_Спеціальний_живопис/ОК21.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/017_Спеціальний_живопис/ОК21.txt",
+      "chars": 9446,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/014_Додрукарська_підготовка/ОК25.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/014_Додрукарська_підготовка/ОК25.txt",
+      "chars": 10763,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/015_Стилізація/ОК23.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/015_Стилізація/ОК23.txt",
+      "chars": 8480,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/006_Пластичне_моделювання/ОК30.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/006_Пластичне_моделювання/ОК30.txt",
+      "chars": 6279,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/025_Історія_зарубіжного_мистецтва/ОК8.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/025_Історія_зарубіжного_мистецтва/ОК8.txt",
+      "chars": 15560,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/3575/components/011_НК27._Виробнича_практика/Технологія_промислового_формоутворення_Методичка_до_практики_технологічної_2017(pdf.io).pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/3575/components/011_НК27._Виробнича_практика/Технологія_промислового_формоутворення_Методичка_до_практики_технологічної_2017(pdf.io).txt",
+      "chars": 85996,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/013_Кваліфікаційна_робота/ОК34.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/013_Кваліфікаційна_робота/ОК34.txt",
+      "chars": 8925,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/005_Айдентика/ОК29.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/005_Айдентика/ОК29.txt",
+      "chars": 8330,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/001_Види_композиції_в_графічному_дизайні/ОК24.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/001_Види_композиції_в_графічному_дизайні/ОК24.txt",
+      "chars": 7050,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/024_Основи_шрифту/ОК7.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/024_Основи_шрифту/ОК7.txt",
+      "chars": 10988,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/010_Художньо-ознайомлювальна_практика/ОК33.1.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/010_Художньо-ознайомлювальна_практика/ОК33.1.txt",
+      "chars": 21519,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/035_Кольорознавство_та_колористика/ОК11.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/035_Кольорознавство_та_колористика/ОК11.txt",
+      "chars": 9294,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/034_Акцидентний_шрифт/ОК19.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/034_Акцидентний_шрифт/ОК19.txt",
+      "chars": 9824,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/027_Теорія_дизайну/ОК9.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/027_Теорія_дизайну/ОК9.txt",
+      "chars": 10376,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/003_Декоративна_композиція/ОК27.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/003_Декоративна_композиція/ОК27.txt",
+      "chars": 7978,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/032_Пластична_анатомія/ОК16.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/032_Пластична_анатомія/ОК16.txt",
+      "chars": 7651,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/009_Декоративна_пластика/ОК32.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/009_Декоративна_пластика/ОК32.txt",
+      "chars": 8081,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/022_Правознавство/ОК5.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/022_Правознавство/ОК5.txt",
+      "chars": 6354,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/007_Основи_графічного_дизайну/ОК10.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/007_Основи_графічного_дизайну/ОК10.txt",
+      "chars": 7835,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/031_Історія_українського_мистецтва/ОК15.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/031_Історія_українського_мистецтва/ОК15.txt",
+      "chars": 13423,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/004_Формоутворення,_макетування_та_моделювання/ОК28.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/004_Формоутворення,_макетування_та_моделювання/ОК28.txt",
+      "chars": 8982,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/023_Спеціальний_рисунок_(за_видами_дизайну)/ОК6.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/023_Спеціальний_рисунок_(за_видами_дизайну)/ОК6.txt",
+      "chars": 18580,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/029_Комп'ютерна_графіка/ОК13.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/029_Комп'ютерна_графіка/ОК13.txt",
+      "chars": 10112,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/002_Основи_скульптури/ОК26.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/002_Основи_скульптури/ОК26.txt",
+      "chars": 9248,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/008_Композиція_в_дизайні/ОК31.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/008_Композиція_в_дизайні/ОК31.txt",
+      "chars": 7212,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/033_Каліграфія/ОК17.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/033_Каліграфія/ОК17.txt",
+      "chars": 8239,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/021_Іноземна_мова_(за_професійним_спрямуванням)/ОК4.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/021_Іноземна_мова_(за_професійним_спрямуванням)/ОК4.txt",
+      "chars": 11712,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/018_Проєктування/ОК20.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/018_Проєктування/ОК20.txt",
+      "chars": 14141,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/019_Історія_України_та_української_культури/ОК1.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/019_Історія_України_та_української_культури/ОК1.txt",
+      "chars": 19474,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/012_Художньо-технологічна_практика/ОК33.2.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/012_Художньо-технологічна_практика/ОК33.2.txt",
+      "chars": 21735,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/028_Інформаційні_технології_в_дизайні/ОК12.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/028_Інформаційні_технології_в_дизайні/ОК12.txt",
+      "chars": 6451,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/030_Основи_живопису/ОК14.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/030_Основи_живопису/ОК14.txt",
+      "chars": 8588,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/020_Українська_мова_(за_професійним_спрямуванням)/ОК2.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/020_Українська_мова_(за_професійним_спрямуванням)/ОК2.txt",
+      "chars": 12314,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/15282/components/016_Інформаційне_моделювання_в_графічному_дизайні/ОК22.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/15282/components/016_Інформаційне_моделювання_в_графічному_дизайні/ОК22.txt",
+      "chars": 10316,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/2623/components/002_Методика_наукових_досліджень_(ОК_3)_-_Частина_2._Монетизація_наукової_продукції/ОК3_2020_Силабус_Монетизація_1.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/2623/components/002_Методика_наукових_досліджень_(ОК_3)_-_Частина_2._Монетизація_наукової_продукції/ОК3_2020_Силабус_Монетизація_1.txt",
+      "chars": 15268,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/2623/components/002_Методика_наукових_досліджень_(ОК_3)_-_Частина_2._Монетизація_наукової_продукції/ОК3_2020_Силабус_Монетизація.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/2623/components/002_Методика_наукових_досліджень_(ОК_3)_-_Частина_2._Монетизація_наукової_продукції/ОК3_2020_Силабус_Монетизація.txt",
+      "chars": 15268,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/14298/components/013_Філософія/РП_Філософія.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/14298/components/013_Філософія/РП_Філософія.txt",
+      "chars": 25312,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/6792/components/003_Курсова_робота_з_дизайну/1.1.14_Курсова_робота.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/6792/components/003_Курсова_робота_з_дизайну/1.1.14_Курсова_робота.txt",
+      "chars": 42198,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/6792/components/008_Методика_викладання_дизайну_в_закладах_вищої_освіти/1.1.9_Методика_викладання_дизайну_в_закладах_вищої_освіти.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/6792/components/008_Методика_викладання_дизайну_в_закладах_вищої_освіти/1.1.9_Методика_викладання_дизайну_в_закладах_вищої_освіти.txt",
+      "chars": 25556,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/6792/components/002_Навчальна_практика_(науково-дослідна)/1.2.1_Навчальна_практика_(науково-дослідна).pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/6792/components/002_Навчальна_практика_(науково-дослідна)/1.2.1_Навчальна_практика_(науково-дослідна).txt",
+      "chars": 20650,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/6792/components/013_Психологія_вищої_школи/1.1.4_Психологія_вищої_школи.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/6792/components/013_Психологія_вищої_школи/1.1.4_Психологія_вищої_школи.txt",
+      "chars": 17198,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/6792/components/015_Філософія_науки/1.1.2_Філософія_науки.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/6792/components/015_Філософія_науки/1.1.2_Філософія_науки.txt",
+      "chars": 16460,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/6792/components/014_Педагогіка_вищої_школи/1.1.3_Педагогіка_вищої_школи.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/6792/components/014_Педагогіка_вищої_школи/1.1.3_Педагогіка_вищої_школи.txt",
+      "chars": 18144,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/6792/components/012_Право_інтелектуальної_власності_та_державне_регулювання_трансферу/1.1.5_Право_інтелектуальної_власності_та_державне_регулювання_трансферу.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/6792/components/012_Право_інтелектуальної_власності_та_державне_регулювання_трансферу/1.1.5_Право_інтелектуальної_власності_та_державне_регулювання_трансферу.txt",
+      "chars": 17577,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/6792/components/001_Виробнича_практика_(проєктна)/1.2.2_Виробнича_практика_(проєктна).pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/6792/components/001_Виробнича_практика_(проєктна)/1.2.2_Виробнича_практика_(проєктна).txt",
+      "chars": 20650,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/6792/components/017_Кваліфікаційна_робота/1.4.1_Кваліфікаційна_робота.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/6792/components/017_Кваліфікаційна_робота/1.4.1_Кваліфікаційна_робота.txt",
+      "chars": 93111,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/6792/components/016_Основи_професійної_комунікації_іноземною_мовою/1.1.1_Основи_професійної_комунікації_іноземною_мовою.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/6792/components/016_Основи_професійної_комунікації_іноземною_мовою/1.1.1_Основи_професійної_комунікації_іноземною_мовою.txt",
+      "chars": 15800,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/6792/components/005_Комп’ютерна_графіка/1.1.12_Комп’ютерна_графіка.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/6792/components/005_Комп’ютерна_графіка/1.1.12_Комп’ютерна_графіка.txt",
+      "chars": 23404,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/6792/components/007_Мультимедійні_технології_в_дизайні/1.1.10_Мультимедійні_технології_в_дизайні.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/6792/components/007_Мультимедійні_технології_в_дизайні/1.1.10_Мультимедійні_технології_в_дизайні.txt",
+      "chars": 21747,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/6792/components/000_Виконання_кваліфікаційної_роботи/1.3.1_Виконання_кваліфікаційної_роботи.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/6792/components/000_Виконання_кваліфікаційної_роботи/1.3.1_Виконання_кваліфікаційної_роботи.txt",
+      "chars": 93111,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/10728/components/004_ОК_9_Основи_наукових_досліджень/syllabus_4k_7s_osn_nauk_dosl_2023-2024.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/10728/components/004_ОК_9_Основи_наукових_досліджень/syllabus_4k_7s_osn_nauk_dosl_2023-2024.txt",
+      "chars": 15795,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/14236/components/007_Економіка_креативних_індустрій/ДС_РП_економіка_креативних_індустрій_4_курс_8_сем.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/14236/components/007_Економіка_креативних_індустрій/ДС_РП_економіка_креативних_індустрій_4_курс_8_сем.txt",
+      "chars": 13752,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/14236/components/021_Основи_охорони_праці_та_безпека_життєдіяльності/ДС_РП_ООП_та_БЖД_2024.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/14236/components/021_Основи_охорони_праці_та_безпека_життєдіяльності/ДС_РП_ООП_та_БЖД_2024.txt",
+      "chars": 30662,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/9228/components/012_Кваліфікаційна_робота/1.4.1_Кваліфікаційна_робота.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/9228/components/012_Кваліфікаційна_робота/1.4.1_Кваліфікаційна_робота.txt",
+      "chars": 29391,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/9228/components/013_Методика_викладання_дизайну_в_закладах_вищої_освіти/1.1.9_Методика_викладання_дизайну_в_закладах_вищої_освіти.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/9228/components/013_Методика_викладання_дизайну_в_закладах_вищої_освіти/1.1.9_Методика_викладання_дизайну_в_закладах_вищої_освіти.txt",
+      "chars": 23769,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/9228/components/003_Психологія_вищої_школи/1.1.4_Психологія_вищої_школи.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/9228/components/003_Психологія_вищої_школи/1.1.4_Психологія_вищої_школи.txt",
+      "chars": 18210,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/14236/components/030_Правознавство/ДС_РП_правознавство.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/14236/components/030_Правознавство/ДС_РП_правознавство.txt",
+      "chars": 14620,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/9228/components/004_Педагогіка_вищої_школи/1.1.3_Педагогіка_вищої_школи.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/9228/components/004_Педагогіка_вищої_школи/1.1.3_Педагогіка_вищої_школи.txt",
+      "chars": 13376,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/9228/components/015_Рисунок_та_живопис_за_фахом/1.1.6_Рисунок_та_живопис_за_фахом.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/9228/components/015_Рисунок_та_живопис_за_фахом/1.1.6_Рисунок_та_живопис_за_фахом.txt",
+      "chars": 21939,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/9228/components/001_Виробнича_практика_(проектна)/1.2.2_Виробнича_практика_(проектна).pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/9228/components/001_Виробнича_практика_(проектна)/1.2.2_Виробнича_практика_(проектна).txt",
+      "chars": 21173,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/9228/components/006_Основи_професійної_комунікації_іноземною_мовою/1.1.1_Основи_професійної_комунікації_іноземною_мовою.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/9228/components/006_Основи_професійної_комунікації_іноземною_мовою/1.1.1_Основи_професійної_комунікації_іноземною_мовою.txt",
+      "chars": 16657,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/9228/components/002_Навчальна_та_науково-дослідна_практика_на_кафедрах_університету/1.2.1_Навчальна_та_науково-дослідна_практика_на_кафедрах_університету.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/9228/components/002_Навчальна_та_науково-дослідна_практика_на_кафедрах_університету/1.2.1_Навчальна_та_науково-дослідна_практика_на_кафедрах_університету.txt",
+      "chars": 21173,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/9228/components/016_Право_інтелектуальної_власності_та_державне_регулювання_трансферу/1.1.5_право_інтелектуальної_власності_та_державне_регулювання_трансферу.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/9228/components/016_Право_інтелектуальної_власності_та_державне_регулювання_трансферу/1.1.5_право_інтелектуальної_власності_та_державне_регулювання_трансферу.txt",
+      "chars": 18786,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/9228/components/009_Комп'ютерна_графіка/1.1.12_Комп'ютерна_графіка.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/9228/components/009_Комп'ютерна_графіка/1.1.12_Комп'ютерна_графіка.txt",
+      "chars": 23814,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/9228/components/000_Виконання_кваліфікаційної_роботи/1.3.1_Положення_про_кваліфікаційну_роботу.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/9228/components/000_Виконання_кваліфікаційної_роботи/1.3.1_Положення_про_кваліфікаційну_роботу.txt",
+      "chars": 109974,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/3285/components/006_Іноземна_мова/25292_Іноземна_мова.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/3285/components/006_Іноземна_мова/25292_Іноземна_мова.txt",
+      "chars": 18626,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/3285/components/035_Навчальна_практика_(пленерна)/25292_Навчальна_практика_(пленерна).pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/3285/components/035_Навчальна_практика_(пленерна)/25292_Навчальна_практика_(пленерна).txt",
+      "chars": 15501,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/3285/components/022_Живопис/25292_Живопис_3_курс_(1).pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/3285/components/022_Живопис/25292_Живопис_3_курс_(1).txt",
+      "chars": 15896,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/3285/components/020_Живопис/25292_Живопис_1_курс_(2).pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/3285/components/020_Живопис/25292_Живопис_1_курс_(2).txt",
+      "chars": 15839,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/3285/components/004_Історія_дизайну/25292_Історія_дизайну.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/3285/components/004_Історія_дизайну/25292_Історія_дизайну.txt",
+      "chars": 44810,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/3285/components/002_Рисунок/25292_Рисунок_3_курс_(1).pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/3285/components/002_Рисунок/25292_Рисунок_3_курс_(1).txt",
+      "chars": 18383,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/3285/components/008_Історія_мистецтв/25292_Історія_мистецтв.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/3285/components/008_Історія_мистецтв/25292_Історія_мистецтв.txt",
+      "chars": 54590,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/015_Кваліфікаційна_робота/Кваліфікаційна_робота.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/015_Кваліфікаційна_робота/Кваліфікаційна_робота.txt",
+      "chars": 23894,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/023_Екологія/4_Екологія.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/023_Екологія/4_Екологія.txt",
+      "chars": 20429,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/005_Історія_мистецтв/23_Історія_мистецтв.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/005_Історія_мистецтв/23_Історія_мистецтв.txt",
+      "chars": 20995,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/000_Виробнича_практика_(проєктна)/32_Виробнича_практика_(проєктна).pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/000_Виробнича_практика_(проєктна)/32_Виробнича_практика_(проєктна).txt",
+      "chars": 91151,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/025_Основи_медичних_знань_та_охорона_життєдіяльності/6_Основи_медичних_знань_та_охорона_життєдіяльності.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/025_Основи_медичних_знань_та_охорона_життєдіяльності/6_Основи_медичних_знань_та_охорона_життєдіяльності.txt",
+      "chars": 17949,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/027_Мультимедійні_технології_в_дизайні/8_Мультимедійні_технології_в_дизайні.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/027_Мультимедійні_технології_в_дизайні/8_Мультимедійні_технології_в_дизайні.txt",
+      "chars": 26304,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/017_Атестаційний_екзамен_з_теорії_та_історії_дизайну/Атестаційний_екзамен_з_теорії_та_історії_дизайну.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/017_Атестаційний_екзамен_з_теорії_та_історії_дизайну/Атестаційний_екзамен_з_теорії_та_історії_дизайну.txt",
+      "chars": 21744,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/008_Шрифт/26_Шрифт.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/008_Шрифт/26_Шрифт.txt",
+      "chars": 27353,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/032_Основи_наукових_досліджень/13_Основи_наукових_досліджень.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/032_Основи_наукових_досліджень/13_Основи_наукових_досліджень.txt",
+      "chars": 16693,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/004_Історико-громадянські_студії/22_Історико-громадянські_студії.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/004_Історико-громадянські_студії/22_Історико-громадянські_студії.txt",
+      "chars": 20612,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/031_Основи_композиції_та_проєктної_графіки/12_Основи_композиції_та_проєктної_графіки.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/031_Основи_композиції_та_проєктної_графіки/12_Основи_композиції_та_проєктної_графіки.txt",
+      "chars": 23225,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/014_Виконання_кваліфікаційної_роботи/Виконання_кваліфікаційної_роботи.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/014_Виконання_кваліфікаційної_роботи/Виконання_кваліфікаційної_роботи.txt",
+      "chars": 23894,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/016_Рисунок/19_Рисунок.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/016_Рисунок/19_Рисунок.txt",
+      "chars": 26503,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/013_Виробнича_практика_на_підприємстві/31_Виробнича_практика_на_підприємстві.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/013_Виробнича_практика_на_підприємстві/31_Виробнича_практика_на_підприємстві.txt",
+      "chars": 91151,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/024_Типографіка/5_Типографіка.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/024_Типографіка/5_Типографіка.txt",
+      "chars": 20209,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/034_Живопис/17_Живопис.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/034_Живопис/17_Живопис.txt",
+      "chars": 26487,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/019_Колористика_в_дизайні/16_Колористика_в_дизайні.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/019_Колористика_в_дизайні/16_Колористика_в_дизайні.txt",
+      "chars": 24729,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/028_Нетворкінг_і_лідерство_в_дизайн-діяльності/9_Нетворкінг_і_лідерство_в_дизайн-діяльності.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/028_Нетворкінг_і_лідерство_в_дизайн-діяльності/9_Нетворкінг_і_лідерство_в_дизайн-діяльності.txt",
+      "chars": 18465,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/033_Англійська_мова_рівня_В2/14_Англійська_мова_рівня_В2.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/033_Англійська_мова_рівня_В2/14_Англійська_мова_рівня_В2.txt",
+      "chars": 20152,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/011_Навчальна_практика_(пленер)/29_Навчальна_практика_(пленер).pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/011_Навчальна_практика_(пленер)/29_Навчальна_практика_(пленер).txt",
+      "chars": 91151,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/012_Навчальна_практика_(музейна)/30_Навчальна_практика_(музейна).pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/012_Навчальна_практика_(музейна)/30_Навчальна_практика_(музейна).txt",
+      "chars": 91151,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/001_Основи_теорії_графічного_дизайну/15_Основи_теорії_графічного_дизайну.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/001_Основи_теорії_графічного_дизайну/15_Основи_теорії_графічного_дизайну.txt",
+      "chars": 23282,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/020_Іноземна_мова_за_професійним_спрямуванням/1_Іноземна_мова_за_професійним_спрямуванням.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/020_Іноземна_мова_за_професійним_спрямуванням/1_Іноземна_мова_за_професійним_спрямуванням.txt",
+      "chars": 21817,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/009_Курсова_робота_з_графічного_дизайну/27_pro_kursovu.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/009_Курсова_робота_з_графічного_дизайну/27_pro_kursovu.txt",
+      "chars": 47953,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/002_Фізичне_виховання/20_Фізичне_виховання.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/002_Фізичне_виховання/20_Фізичне_виховання.txt",
+      "chars": 19506,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/007_Формоутворення_та_макетування/25_Формоутворення_та_макетування.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/007_Формоутворення_та_макетування/25_Формоутворення_та_макетування.txt",
+      "chars": 22746,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/026_Дизайн_візуальних_комунікацій/7_Дизайн_візуальних_комунікацій.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/026_Дизайн_візуальних_комунікацій/7_Дизайн_візуальних_комунікацій.txt",
+      "chars": 26920,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/010_Навчальна_практика_(дизайнерська_поліграфічна)/28_Навчальна_практика_(дизайнерська_поліграфічна).pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/010_Навчальна_практика_(дизайнерська_поліграфічна)/28_Навчальна_практика_(дизайнерська_поліграфічна).txt",
+      "chars": 91151,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/021_Українська_мова_за_професійним_спрямуванням/2_Українська_мова_за_професійним_спрямуванням.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/021_Українська_мова_за_професійним_спрямуванням/2_Українська_мова_за_професійним_спрямуванням.txt",
+      "chars": 19131,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/022_Інформаційно-комунікаційні_технології/3_Інформаційно-комунікаційні_технології.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/022_Інформаційно-комунікаційні_технології/3_Інформаційно-комунікаційні_технології.txt",
+      "chars": 17558,
+      "error": null,
+      "method": "ocr"
+    },
+    {
+      "pdf_path": "/home/cc/claude_code/design/data/downloads/13180/components/006_Декоративно-прикладне_мистецтво_та_етнодизайн/24_Декоративно-прикладне_мистецтво_та_етнодизайн.pdf",
+      "success": true,
+      "text_path": "/home/cc/claude_code/design/data/text/13180/components/006_Декоративно-прикладне_мистецтво_та_етнодизайн/24_Декоративно-прикладне_мистецтво_та_етнодизайн.txt",
+      "chars": 30660,
+      "error": null,
+      "method": "ocr"
+    }
+  ]
+}

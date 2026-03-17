@@ -1,0 +1,435 @@
+{
+  "program_name": "Дизайн (Graphic Design)",
+  "degree_level": "bachelor",
+  "total_credits": 240,
+  "duration_years": 4,
+  "years": [
+    {
+      "year": 1,
+      "total_credits": 60,
+      "focus": "Foundations: Traditional skills + Digital literacy + AI introduction",
+      "courses": [
+        {
+          "name": "Основи візуальної комунікації",
+          "name_en": "Visual Communication Fundamentals",
+          "credits": 6,
+          "semester": 1,
+          "type": "required",
+          "category": "core_design",
+          "ai_integration": ""
+        },
+        {
+          "name": "Рисунок і живопис",
+          "name_en": "Drawing and Painting",
+          "credits": 6,
+          "semester": 1,
+          "type": "required",
+          "category": "foundation",
+          "ai_integration": ""
+        },
+        {
+          "name": "Історія мистецтва та дизайну",
+          "name_en": "History of Art and Design",
+          "credits": 4,
+          "semester": 1,
+          "type": "required",
+          "category": "foundation",
+          "ai_integration": ""
+        },
+        {
+          "name": "Цифрова грамотність та основи AI",
+          "name_en": "Digital Literacy and AI Basics",
+          "credits": 4,
+          "semester": 1,
+          "type": "required",
+          "category": "ai_digital",
+          "ai_integration": "Introduces AI concepts and tools"
+        },
+        {
+          "name": "Типографіка",
+          "name_en": "Typography",
+          "credits": 5,
+          "semester": 1,
+          "type": "required",
+          "category": "core_design",
+          "ai_integration": "Introduction to AI font tools"
+        },
+        {
+          "name": "Іноземна мова",
+          "name_en": "Foreign Language",
+          "credits": 3,
+          "semester": 1,
+          "type": "required",
+          "category": "foundation",
+          "ai_integration": ""
+        },
+        {
+          "name": "Колористика",
+          "name_en": "Color Theory",
+          "credits": 5,
+          "semester": 2,
+          "type": "required",
+          "category": "core_design",
+          "ai_integration": "AI color palette generation"
+        },
+        {
+          "name": "Комп'ютерна графіка (Adobe Suite)",
+          "name_en": "Computer Graphics (Adobe Suite)",
+          "credits": 6,
+          "semester": 2,
+          "type": "required",
+          "category": "ai_digital",
+          "ai_integration": ""
+        },
+        {
+          "name": "Дизайн-мислення",
+          "name_en": "Design Thinking",
+          "credits": 4,
+          "semester": 2,
+          "type": "required",
+          "category": "core_design",
+          "ai_integration": ""
+        },
+        {
+          "name": "Основи композиції",
+          "name_en": "Composition Fundamentals",
+          "credits": 5,
+          "semester": 2,
+          "type": "required",
+          "category": "core_design",
+          "ai_integration": ""
+        },
+        {
+          "name": "Академічне письмо",
+          "name_en": "Academic Writing",
+          "credits": 3,
+          "semester": 2,
+          "type": "required",
+          "category": "foundation",
+          "ai_integration": ""
+        },
+        {
+          "name": "Вибіркова дисципліна 1",
+          "name_en": "Elective 1",
+          "credits": 4,
+          "semester": 2,
+          "type": "elective",
+          "category": "elective",
+          "ai_integration": ""
+        }
+      ]
+    },
+    {
+      "year": 2,
+      "total_credits": 60,
+      "focus": "Core Skills: Digital tools mastery + UX/UI + Motion",
+      "courses": [
+        {
+          "name": "Графічний дизайн",
+          "name_en": "Graphic Design",
+          "credits": 6,
+          "semester": 3,
+          "type": "required",
+          "category": "core_design",
+          "ai_integration": "AI logo generation exploration"
+        },
+        {
+          "name": "UX/UI дизайн: Основи",
+          "name_en": "UX/UI Design Fundamentals",
+          "credits": 6,
+          "semester": 3,
+          "type": "required",
+          "category": "ai_digital",
+          "ai_integration": ""
+        },
+        {
+          "name": "3D-моделювання",
+          "name_en": "3D Modeling",
+          "credits": 5,
+          "semester": 3,
+          "type": "required",
+          "category": "ai_digital",
+          "ai_integration": "AI-assisted 3D generation"
+        },
+        {
+          "name": "Фотографія для дизайнерів",
+          "name_en": "Photography for Designers",
+          "credits": 4,
+          "semester": 3,
+          "type": "required",
+          "category": "core_design",
+          "ai_integration": ""
+        },
+        {
+          "name": "Веб-технології",
+          "name_en": "Web Technologies",
+          "credits": 4,
+          "semester": 3,
+          "type": "required",
+          "category": "ai_digital",
+          "ai_integration": ""
+        },
+        {
+          "name": "Вибіркова дисципліна 2",
+          "name_en": "Elective 2",
+          "credits": 5,
+          "semester": 3,
+          "type": "elective",
+          "category": "elective",
+          "ai_integration": ""
+        },
+        {
+          "name": "Figma та прототипування",
+          "name_en": "Figma and Prototyping",
+          "credits": 5,
+          "semester": 4,
+          "type": "required",
+          "category": "ai_digital",
+          "ai_integration": "Figma AI features"
+        },
+        {
+          "name": "Моушн-дизайн",
+          "name_en": "Motion Design",
+          "credits": 5,
+          "semester": 4,
+          "type": "required",
+          "category": "ai_digital",
+          "ai_integration": ""
+        },
+        {
+          "name": "Ілюстрація",
+          "name_en": "Illustration",
+          "credits": 5,
+          "semester": 4,
+          "type": "required",
+          "category": "core_design",
+          "ai_integration": "AI illustration tools exploration"
+        },
+        {
+          "name": "Інформаційний дизайн",
+          "name_en": "Information Design",
+          "credits": 4,
+          "semester": 4,
+          "type": "required",
+          "category": "core_design",
+          "ai_integration": ""
+        },
+        {
+          "name": "Навчальна практика",
+          "name_en": "Training Practice",
+          "credits": 6,
+          "semester": 4,
+          "type": "required",
+          "category": "practice",
+          "ai_integration": ""
+        },
+        {
+          "name": "Вибіркова дисципліна 3",
+          "name_en": "Elective 3",
+          "credits": 5,
+          "semester": 4,
+          "type": "elective",
+          "category": "elective",
+          "ai_integration": ""
+        }
+      ]
+    },
+    {
+      "year": 3,
+      "total_credits": 60,
+      "focus": "Advanced: AI integration + Specialization + Industry practice",
+      "courses": [
+        {
+          "name": "Генеративний дизайн та AI",
+          "name_en": "Generative Design and AI",
+          "credits": 6,
+          "semester": 5,
+          "type": "required",
+          "category": "ai_digital",
+          "ai_integration": "Core AI design course"
+        },
+        {
+          "name": "Взаємодія людина-AI в дизайні",
+          "name_en": "Human-AI Interaction in Design",
+          "credits": 4,
+          "semester": 5,
+          "type": "required",
+          "category": "ai_digital",
+          "ai_integration": "Human-AI collaboration theory"
+        },
+        {
+          "name": "Дизайн бренду: Продвинутий",
+          "name_en": "Advanced Brand Design",
+          "credits": 5,
+          "semester": 5,
+          "type": "required",
+          "category": "specialization",
+          "ai_integration": "AI in brand development"
+        },
+        {
+          "name": "Параметричний та інтерактивний дизайн",
+          "name_en": "Parametric and Interactive Design",
+          "credits": 5,
+          "semester": 5,
+          "type": "required",
+          "category": "ai_digital",
+          "ai_integration": "Algorithmic design with AI"
+        },
+        {
+          "name": "Дослідження в дизайні",
+          "name_en": "Design Research",
+          "credits": 4,
+          "semester": 5,
+          "type": "required",
+          "category": "foundation",
+          "ai_integration": ""
+        },
+        {
+          "name": "Вибіркова дисципліна 4",
+          "name_en": "Elective 4",
+          "credits": 6,
+          "semester": 5,
+          "type": "elective",
+          "category": "elective",
+          "ai_integration": ""
+        },
+        {
+          "name": "UX/UI: Продвинутий",
+          "name_en": "Advanced UX/UI",
+          "credits": 5,
+          "semester": 6,
+          "type": "required",
+          "category": "specialization",
+          "ai_integration": "AI in UX research and design"
+        },
+        {
+          "name": "Візуалізація даних",
+          "name_en": "Data Visualization",
+          "credits": 5,
+          "semester": 6,
+          "type": "required",
+          "category": "ai_digital",
+          "ai_integration": ""
+        },
+        {
+          "name": "Дизайн середовища",
+          "name_en": "Environmental Design",
+          "credits": 4,
+          "semester": 6,
+          "type": "required",
+          "category": "specialization",
+          "ai_integration": ""
+        },
+        {
+          "name": "Виробнича практика",
+          "name_en": "Industry Internship",
+          "credits": 9,
+          "semester": 6,
+          "type": "required",
+          "category": "practice",
+          "ai_integration": ""
+        },
+        {
+          "name": "Вибіркова дисципліна 5",
+          "name_en": "Elective 5",
+          "credits": 7,
+          "semester": 6,
+          "type": "elective",
+          "category": "elective",
+          "ai_integration": ""
+        }
+      ]
+    },
+    {
+      "year": 4,
+      "total_credits": 60,
+      "focus": "Synthesis: Thesis project + Professional preparation + Specialization completion",
+      "courses": [
+        {
+          "name": "Дипломне проектування I",
+          "name_en": "Thesis Project I",
+          "credits": 10,
+          "semester": 7,
+          "type": "required",
+          "category": "thesis",
+          "ai_integration": "AI as research/ideation tool"
+        },
+        {
+          "name": "Портфоліо та професійна практика",
+          "name_en": "Portfolio and Professional Practice",
+          "credits": 4,
+          "semester": 7,
+          "type": "required",
+          "category": "practice",
+          "ai_integration": ""
+        },
+        {
+          "name": "Дизайн та підприємництво",
+          "name_en": "Design Entrepreneurship",
+          "credits": 4,
+          "semester": 7,
+          "type": "required",
+          "category": "foundation",
+          "ai_integration": ""
+        },
+        {
+          "name": "Критичний дизайн та етика AI",
+          "name_en": "Critical Design and AI Ethics",
+          "credits": 4,
+          "semester": 7,
+          "type": "required",
+          "category": "ai_digital",
+          "ai_integration": "Deep dive into AI ethics"
+        },
+        {
+          "name": "Вибіркова спеціалізації 1",
+          "name_en": "Specialization Elective 1",
+          "credits": 8,
+          "semester": 7,
+          "type": "elective",
+          "category": "specialization",
+          "ai_integration": ""
+        },
+        {
+          "name": "Дипломне проектування II",
+          "name_en": "Thesis Project II",
+          "credits": 15,
+          "semester": 8,
+          "type": "required",
+          "category": "thesis",
+          "ai_integration": "AI integration in thesis project"
+        },
+        {
+          "name": "Переддипломна практика",
+          "name_en": "Pre-diploma Practice",
+          "credits": 6,
+          "semester": 8,
+          "type": "required",
+          "category": "practice",
+          "ai_integration": ""
+        },
+        {
+          "name": "Вибіркова спеціалізації 2",
+          "name_en": "Specialization Elective 2",
+          "credits": 9,
+          "semester": 8,
+          "type": "elective",
+          "category": "specialization",
+          "ai_integration": ""
+        }
+      ]
+    }
+  ],
+  "ai_courses_count": 12,
+  "ai_integrated_count": 15,
+  "key_innovations": [
+    "Dedicated 'Generative Design and AI' course in Year 3",
+    "AI integration touchpoints across all years",
+    "'Human-AI Interaction' ethics course",
+    "Parametric/Computational design module",
+    "Data visualization as required component",
+    "AI-enhanced thesis project option",
+    "Flexible specialization tracks (UX, Brand, Motion, etc.)"
+  ],
+  "rationale": "This curriculum addresses identified gaps in Ukrainian design education,\nparticularly in AI and digital skills integration. Key principles:\n\n1. Progressive AI Integration: AI is introduced in Year 1 and deepens each year\n2. Balance: Traditional design foundations alongside digital innovation\n3. Practice-Oriented: Industry internships and real projects throughout\n4. Ethical Framework: Critical perspective on AI and design responsibility\n5. Flexible Specialization: Multiple tracks within design discipline\n\nBased on gap analysis showing 15% AI coverage and 45% digital tools coverage\nin current programs."
+}

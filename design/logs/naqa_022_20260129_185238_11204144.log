@@ -1,0 +1,16 @@
+2026-01-29 18:52:38,929 - naqa_scraper - INFO - Session started: naqa_022_20260129_185238_11204144
+2026-01-29 18:52:38,929 - naqa_scraper - INFO - Log file: /home/cc/claude_code/design/logs/naqa_022_20260129_185238_11204144.log
+2026-01-29 18:52:38,929 - naqa_scraper - INFO - Active filters: {'specialty': '022 Дизайн'}
+2026-01-29 18:52:40,235 - naqa_scraper.browser - INFO - Browser started with anti-detection settings
+2026-01-29 18:52:40,235 - naqa_scraper - INFO - Phase 1: Collecting case URLs
+2026-01-29 18:52:40,236 - naqa_scraper.navigator - INFO - Navigating to NAQA public portal
+2026-01-29 18:52:43,767 - naqa_scraper.browser - INFO - Navigating to: https://public.naqa.gov.ua
+2026-01-29 18:52:47,250 - naqa_scraper.navigator - INFO - Opening filter panel
+2026-01-29 18:52:50,500 - naqa_scraper.navigator - INFO - Filter panel opened
+2026-01-29 18:52:50,500 - naqa_scraper.navigator - INFO - Applying filters: {'specialty': '022 Дизайн'}
+2026-01-29 18:52:50,500 - naqa_scraper.navigator - INFO - Selecting Спеціальність: 022 Дизайн (dropdown index 0)
+2026-01-29 18:52:51,657 - naqa_scraper.navigator - INFO - Selected Спеціальність: 022 Дизайн
+2026-01-29 18:52:51,967 - naqa_scraper.navigator - INFO - Selecting Статус: 20.1 (dropdown index 2)
+2026-01-29 18:52:53,067 - naqa_scraper.navigator - INFO - Selected Статус: 20.1
+2026-01-29 18:52:55,610 - naqa_scraper.navigator - INFO - Clicking Apply button
+2026-01-29 18:53:25,839 - naqa_scraper.browser - INFO - Browser stopped

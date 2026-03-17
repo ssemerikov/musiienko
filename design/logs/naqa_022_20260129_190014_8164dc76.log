@@ -1,0 +1,94 @@
+2026-01-29 19:00:14,772 - naqa_scraper - INFO - Session started: naqa_022_20260129_190014_8164dc76
+2026-01-29 19:00:14,772 - naqa_scraper - INFO - Log file: /home/cc/claude_code/design/logs/naqa_022_20260129_190014_8164dc76.log
+2026-01-29 19:00:14,772 - naqa_scraper - INFO - Active filters: {'specialty': '022 Дизайн'}
+2026-01-29 19:00:15,984 - naqa_scraper.browser - INFO - Browser started with anti-detection settings
+2026-01-29 19:00:15,984 - naqa_scraper - INFO - Phase 1: Collecting case URLs
+2026-01-29 19:00:15,985 - naqa_scraper.navigator - INFO - Navigating to NAQA public portal
+2026-01-29 19:00:19,563 - naqa_scraper.browser - INFO - Navigating to: https://public.naqa.gov.ua
+2026-01-29 19:00:23,045 - naqa_scraper.navigator - INFO - Opening filter panel
+2026-01-29 19:00:26,351 - naqa_scraper.navigator - INFO - Filter panel opened
+2026-01-29 19:00:26,351 - naqa_scraper.navigator - INFO - Applying filters: {'specialty': '022 Дизайн'}
+2026-01-29 19:00:26,351 - naqa_scraper.navigator - INFO - Selecting Спеціальність: 022 Дизайн (dropdown index 0)
+2026-01-29 19:00:27,535 - naqa_scraper.navigator - INFO - Selected Спеціальність: 022 Дизайн
+2026-01-29 19:00:28,084 - naqa_scraper.navigator - INFO - Selecting Статус: 20.1 (dropdown index 2)
+2026-01-29 19:00:29,210 - naqa_scraper.navigator - INFO - Selected Статус: 20.1
+2026-01-29 19:00:33,147 - naqa_scraper.navigator - INFO - Clicking Apply button
+2026-01-29 19:00:35,206 - naqa_scraper.navigator - INFO - Filter applied
+2026-01-29 19:00:36,218 - naqa_scraper.navigator - INFO - Processing results page 1
+2026-01-29 19:00:36,223 - naqa_scraper.navigator - INFO - Found 5 cases on page 1
+2026-01-29 19:00:36,277 - naqa_scraper.navigator - INFO - Reached max_cases limit (2)
+2026-01-29 19:00:36,277 - naqa_scraper - INFO - Collected 2 case URLs
+2026-01-29 19:00:36,278 - naqa_scraper - INFO - Limited to 2 cases
+2026-01-29 19:00:36,278 - naqa_scraper - INFO - Processing 2 pending cases
+2026-01-29 19:00:36,278 - naqa_scraper - INFO - Scraping case: 14698
+2026-01-29 19:00:38,949 - naqa_scraper.browser - INFO - Navigating to: https://public.naqa.gov.ua/v2/accreditation-folder/14698
+2026-01-29 19:00:43,093 - naqa_scraper.navigator - INFO - Expanding section: button:has-text("Відомості про СО")
+2026-01-29 19:00:44,145 - naqa_scraper.navigator - INFO - Clicking Form SE button: button:has-text("Переглянути форму СО")
+2026-01-29 19:00:47,209 - naqa_scraper.navigator - INFO - Navigated to Form SE: https://public.naqa.gov.ua/v2/form-se/14698/view
+2026-01-29 19:00:47,209 - naqa_scraper.extractor - INFO - Extracting Form SE: 14698
+2026-01-29 19:00:57,725 - naqa_scraper.extractor - WARNING - Could not click tab 4, extracting visible content
+2026-01-29 19:00:58,860 - naqa_scraper.extractor - WARNING - Could not click tab 5, extracting visible content
+2026-01-29 19:00:59,983 - naqa_scraper.extractor - WARNING - Could not click tab 6, extracting visible content
+2026-01-29 19:01:01,119 - naqa_scraper.extractor - WARNING - Could not click tab 7, extracting visible content
+2026-01-29 19:01:02,254 - naqa_scraper.extractor - WARNING - Could not click tab 8, extracting visible content
+2026-01-29 19:01:03,374 - naqa_scraper.extractor - WARNING - Could not click tab 9, extracting visible content
+2026-01-29 19:01:04,509 - naqa_scraper.extractor - WARNING - Could not click tab 10, extracting visible content
+2026-01-29 19:01:05,654 - naqa_scraper.extractor - WARNING - Could not click tab 11, extracting visible content
+2026-01-29 19:01:06,805 - naqa_scraper.extractor - WARNING - Table 1 (educational components) not found
+2026-01-29 19:01:06,809 - naqa_scraper.extractor - INFO - Extracted 11 tabs, 0 components, 0 tables
+2026-01-29 19:01:06,875 - naqa_scraper.downloader - INFO - Starting file downloads for case 14698
+2026-01-29 19:01:06,876 - naqa_scraper.downloader - INFO - Downloading main documents
+2026-01-29 19:01:06,900 - naqa_scraper.downloader - INFO - Downloading files from tabs
+2026-01-29 19:01:18,424 - naqa_scraper.downloader - INFO - Downloading Table 1 component files
+2026-01-29 19:01:18,434 - naqa_scraper.downloader - WARNING - Table 1 not found for file download
+2026-01-29 19:01:18,434 - naqa_scraper.downloader - INFO - Downloading files from all tables
+2026-01-29 19:01:18,438 - naqa_scraper.downloader - INFO - Manifest saved to /home/cc/claude_code/design/data/downloads/14698/manifest.json
+2026-01-29 19:01:18,439 - naqa_scraper.downloader - INFO - Download complete for 14698: 0/0 files
+2026-01-29 19:01:18,439 - naqa_scraper - INFO - Case 14698 completed: 11 tabs, 0 components, 0 files
+2026-01-29 19:01:18,454 - naqa_scraper - INFO - Scraping case: 14473
+2026-01-29 19:01:21,239 - naqa_scraper.browser - INFO - Navigating to: https://public.naqa.gov.ua/v2/accreditation-folder/14473
+2026-01-29 19:01:25,407 - naqa_scraper.navigator - INFO - Expanding section: button:has-text("Відомості про СО")
+2026-01-29 19:01:26,487 - naqa_scraper.navigator - INFO - Clicking Form SE button: button:has-text("Переглянути форму СО")
+2026-01-29 19:01:29,596 - naqa_scraper.navigator - INFO - Navigated to Form SE: https://public.naqa.gov.ua/v2/form-se/14473/view
+2026-01-29 19:01:29,596 - naqa_scraper.extractor - INFO - Extracting Form SE: 14473
+2026-01-29 19:01:42,864 - naqa_scraper.extractor - WARNING - Could not click tab 4, extracting visible content
+2026-01-29 19:01:44,078 - naqa_scraper.extractor - WARNING - Could not click tab 5, extracting visible content
+2026-01-29 19:01:45,298 - naqa_scraper.extractor - WARNING - Could not click tab 6, extracting visible content
+2026-01-29 19:01:46,516 - naqa_scraper.extractor - WARNING - Could not click tab 7, extracting visible content
+2026-01-29 19:01:47,738 - naqa_scraper.extractor - WARNING - Could not click tab 8, extracting visible content
+2026-01-29 19:01:48,939 - naqa_scraper.extractor - WARNING - Could not click tab 9, extracting visible content
+2026-01-29 19:01:50,174 - naqa_scraper.extractor - WARNING - Could not click tab 10, extracting visible content
+2026-01-29 19:01:51,469 - naqa_scraper.extractor - WARNING - Could not click tab 11, extracting visible content
+2026-01-29 19:01:52,678 - naqa_scraper.extractor - WARNING - Table 1 (educational components) not found
+2026-01-29 19:01:52,682 - naqa_scraper.extractor - INFO - Extracted 11 tabs, 0 components, 0 tables
+2026-01-29 19:01:53,886 - naqa_scraper.downloader - INFO - Starting file downloads for case 14473
+2026-01-29 19:01:53,886 - naqa_scraper.downloader - INFO - Downloading main documents
+2026-01-29 19:01:54,031 - naqa_scraper.downloader - INFO - Downloading files from tabs
+2026-01-29 19:02:05,666 - naqa_scraper.downloader - INFO - Downloading Table 1 component files
+2026-01-29 19:02:05,676 - naqa_scraper.downloader - WARNING - Table 1 not found for file download
+2026-01-29 19:02:05,676 - naqa_scraper.downloader - INFO - Downloading files from all tables
+2026-01-29 19:02:05,680 - naqa_scraper.downloader - INFO - Manifest saved to /home/cc/claude_code/design/data/downloads/14473/manifest.json
+2026-01-29 19:02:05,680 - naqa_scraper.downloader - INFO - Download complete for 14473: 0/0 files
+2026-01-29 19:02:05,680 - naqa_scraper - INFO - Case 14473 completed: 11 tabs, 0 components, 0 files
+2026-01-29 19:02:05,956 - naqa_scraper.browser - INFO - Browser stopped
+2026-01-29 19:02:06,086 - naqa_scraper.storage - INFO - Saved session JSON to /home/cc/claude_code/design/output/all_programs.json
+2026-01-29 19:02:06,087 - naqa_scraper.storage - INFO - Saved programs CSV to /home/cc/claude_code/design/output/all_programs.csv (2 rows)
+2026-01-29 19:02:06,087 - naqa_scraper.storage - INFO - Saved components CSV to /home/cc/claude_code/design/output/components_summary.csv (0 rows)
+2026-01-29 19:02:06,088 - naqa_scraper.storage - INFO - Saved files manifest to /home/cc/claude_code/design/output/files_manifest.json (0 files)
+2026-01-29 19:02:06,106 - naqa_scraper.storage - INFO - Saved tabs content to /home/cc/claude_code/design/output/tabs_content.json
+2026-01-29 19:02:06,107 - naqa_scraper.checkpoint - INFO - Session finalized
+2026-01-29 19:02:06,107 - naqa_scraper - INFO - ============================================================
+2026-01-29 19:02:06,107 - naqa_scraper - INFO - SCRAPING COMPLETE
+2026-01-29 19:02:06,107 - naqa_scraper - INFO - ============================================================
+2026-01-29 19:02:06,107 - naqa_scraper - INFO - Session ID: naqa_022_20260129_190014_8164dc76
+2026-01-29 19:02:06,107 - naqa_scraper - INFO - Total cases: 2
+2026-01-29 19:02:06,108 - naqa_scraper - INFO - Completed: 2
+2026-01-29 19:02:06,108 - naqa_scraper - INFO - Failed: 0
+2026-01-29 19:02:06,108 - naqa_scraper - INFO - Files downloaded: 0
+2026-01-29 19:02:06,108 - naqa_scraper - INFO - Components extracted: 0
+2026-01-29 19:02:06,108 - naqa_scraper - INFO - Output files:
+2026-01-29 19:02:06,108 - naqa_scraper - INFO -   - session_json: /home/cc/claude_code/design/output/all_programs.json
+2026-01-29 19:02:06,108 - naqa_scraper - INFO -   - programs_csv: /home/cc/claude_code/design/output/all_programs.csv
+2026-01-29 19:02:06,108 - naqa_scraper - INFO -   - components_csv: /home/cc/claude_code/design/output/components_summary.csv
+2026-01-29 19:02:06,108 - naqa_scraper - INFO -   - files_manifest: /home/cc/claude_code/design/output/files_manifest.json
+2026-01-29 19:02:06,108 - naqa_scraper - INFO -   - tabs_content: /home/cc/claude_code/design/output/tabs_content.json

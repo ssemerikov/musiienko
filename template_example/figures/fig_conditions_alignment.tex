@@ -1,0 +1,35 @@
+\noindent\resizebox{\textwidth}{!}{%
+\begin{tikzpicture}[every node/.style={font=\footnotesize}]
+
+% Column headers
+\node[dia/rbox=3.2cm, minimum height=1.0cm, font=\footnotesize\bfseries] (ch) {Педагогічна умова};
+\node[dia/rbox=3.6cm, minimum height=1.0cm, font=\footnotesize\bfseries, right=0.15cm of ch] (cf) {Фактори CAMIL};
+\node[dia/rbox=3.0cm, minimum height=1.0cm, font=\footnotesize\bfseries, right=0.15cm of cf] (ct) {Компоненти TPACK};
+\node[dia/rbox=4.2cm, minimum height=1.0cm, font=\footnotesize\bfseries, right=0.15cm of ct] (cr) {Компоненти готовності};
+
+% Row 1: Психолого-педагогічна
+\node[dia/lrbox=3.2cm, below=0.15cm of ch] (r1c1) {психолого-педагогічна};
+\node[dia/lrbox=3.6cm, below=0.15cm of cf] (r1c2) {мотивація, саморегуляція};
+\node[dia/lrbox=3.0cm, below=0.15cm of ct] (r1c3) {PK, CK};
+\node[dia/lrbox=4.2cm, below=0.15cm of cr] (r1c4) {мотиваційно-ціннісний, рефлексивно-оцінний};
+
+% Row 2: Методична
+\node[dia/lrbox=3.2cm, below=0.15cm of r1c1] (r2c1) {методична};
+\node[dia/lrbox=3.6cm, below=0.15cm of r1c2] (r2c2) {когнітивне навантаження, агентність};
+\node[dia/lrbox=3.0cm, below=0.15cm of r1c3] (r2c3) {PK, TPK, TPACK};
+\node[dia/lrbox=4.2cm, below=0.15cm of r1c4] (r2c4) {когнітивний, діяльнісно-проєктувальний};
+
+% Row 3: Технологічна
+\node[dia/lrbox=3.2cm, below=0.15cm of r2c1] (r3c1) {технологічна};
+\node[dia/lrbox=3.6cm, below=0.15cm of r2c2] (r3c2) {втілення, присутність};
+\node[dia/lrbox=3.0cm, below=0.15cm of r2c3] (r3c3) {TK, TCK};
+\node[dia/lrbox=4.2cm, below=0.15cm of r2c4] (r3c4) {технологічний, інтерактивний};
+
+% Row 4: Організаційна
+\node[dia/lrbox=3.2cm, below=0.15cm of r3c1] (r4c1) {організаційна};
+\node[dia/lrbox=3.6cm, below=0.15cm of r3c2] (r4c2) {усі фактори (системна)};
+\node[dia/lrbox=3.0cm, below=0.15cm of r3c3] (r4c3) {усі компоненти};
+\node[dia/lrbox=4.2cm, below=0.15cm of r3c4] (r4c4) {усі компоненти};
+
+\end{tikzpicture}%
+}

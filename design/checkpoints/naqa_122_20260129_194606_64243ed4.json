@@ -1,0 +1,26 @@
+{
+  "session_id": "naqa_122_20260129_194606_64243ed4",
+  "created_at": "2026-01-29T19:46:06.740750",
+  "updated_at": "2026-01-29T19:48:38.500454",
+  "phase": "completed",
+  "case_urls": [
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/14825",
+      "case_id": "14825",
+      "form_url": null,
+      "institution_name": "Кременчуцький національний університет імені Михайла Остроградського",
+      "program_name": "Інформаційні управляючі системи та технології"
+    }
+  ],
+  "completed_cases": [
+    "14825"
+  ],
+  "failed_cases": [],
+  "current_index": 1,
+  "total_cases": 1,
+  "statistics": {
+    "total_files_downloaded": 13,
+    "total_components_extracted": 13
+  },
+  "completed_at": "2026-01-29T19:48:38.500442"
+}

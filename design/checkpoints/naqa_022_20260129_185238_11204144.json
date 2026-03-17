@@ -1,0 +1,15 @@
+{
+  "session_id": "naqa_022_20260129_185238_11204144",
+  "created_at": "2026-01-29T18:52:38.930118",
+  "updated_at": "2026-01-29T18:52:40.235930",
+  "phase": "collecting_urls",
+  "case_urls": [],
+  "completed_cases": [],
+  "failed_cases": [],
+  "current_index": 0,
+  "total_cases": 0,
+  "statistics": {
+    "total_files_downloaded": 0,
+    "total_components_extracted": 0
+  }
+}

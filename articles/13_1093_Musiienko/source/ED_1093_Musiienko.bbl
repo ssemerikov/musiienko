@@ -1,0 +1,312 @@
+\begin{thebibliography}{30}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{Available from: }
+\providecommand{\urldateprefix}{Accessed }
+\providecommand{\selectlanguage}[1]{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem[{Abd El-Latif, Al-Hagla and Hasan(2020)}]{AbdElLatif2020}
+\bibinfo{author}{Abd El-Latif, M.}, \bibinfo{author}{Al-Hagla, K.S.} and
+  \bibinfo{author}{Hasan, A.}, \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{Overview on the criticism process in architecture
+  pedagogy}.
+\newblock \emph{\bibinfo{journal}{{Alexandria Engineering Journal}}},
+  \bibinfo{volume}{59}(\bibinfo{number}{2}), pp.\bibinfo{pages}{753--762}.
+\newblock \urlprefix\url{https://doi.org/10.1016/j.aej.2020.01.019}.
+
+\bibitem[{Arksey and O'Malley(2005)}]{Arksey2005}
+\bibinfo{author}{Arksey, H.} and \bibinfo{author}{O'Malley, L.},
+  \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{Scoping studies: towards a methodological framework}.
+\newblock \emph{\bibinfo{journal}{{International Journal of Social Research
+  Methodology}}}, \bibinfo{volume}{8}(\bibinfo{number}{1}),
+  pp.\bibinfo{pages}{19--32}.
+\newblock \urlprefix\url{https://doi.org/10.1080/1364557032000119616}.
+
+\bibitem[{Boschman, McKenney and Voogt(2015)}]{Boschman2015}
+\bibinfo{author}{Boschman, F.}, \bibinfo{author}{McKenney, S.} and
+  \bibinfo{author}{Voogt, J.}, \bibinfo{year}{2015}.
+\newblock \bibinfo{title}{Exploring teachers' use of {TPACK} in design talk:
+  The collaborative design of technology-rich early literacy activities}.
+\newblock \emph{\bibinfo{journal}{{Computers \& Education}}},
+  \bibinfo{volume}{82}, pp.\bibinfo{pages}{250--262}.
+\newblock \urlprefix\url{https://doi.org/10.1016/j.compedu.2014.11.010}.
+
+\bibitem[{Bower(2017)}]{Bower2017}
+\bibinfo{author}{Bower, M.}, \bibinfo{year}{2017}.
+\newblock \bibinfo{title}{{The Technology Pedagogy and Content Knowledge
+  ({TPACK}) Framework and Its Implications}}.
+\newblock \emph{\bibinfo{booktitle}{{Design of Technology-Enhanced Learning:
+  Integrating Research and Practice}}}.
+\newblock \bibinfo{publisher}{Emerald Publishing Limited},
+  chap.~\bibinfo{chapter}{2}, pp.\bibinfo{pages}{17--33}.
+\newblock \urlprefix\url{https://doi.org/10.1108/978-1-78714-182-720171004}.
+
+\bibitem[{Braun and Clarke(2006)}]{Braun2006}
+\bibinfo{author}{Braun, V.} and \bibinfo{author}{Clarke, V.},
+  \bibinfo{year}{2006}.
+\newblock \bibinfo{title}{Using thematic analysis in psychology}.
+\newblock \emph{\bibinfo{journal}{{Qualitative Research in Psychology}}},
+  \bibinfo{volume}{3}(\bibinfo{number}{2}), pp.\bibinfo{pages}{77--101}.
+\newblock \urlprefix\url{https://doi.org/10.1191/1478088706qp063oa}.
+
+\bibitem[{Buragohain and Chaudhary(2025)}]{Buragohain2025}
+\bibinfo{author}{Buragohain, D.} and \bibinfo{author}{Chaudhary, S.},
+  \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{{Navigating ChatGPT in ASEAN Higher Education:
+  Ethical and Pedagogical Perspectives}}.
+\newblock \emph{\bibinfo{journal}{{Computer Applications in Engineering
+  Education}}}, \bibinfo{volume}{33}(\bibinfo{number}{4}),
+  p.\bibinfo{pages}{e70062}.
+\newblock \urlprefix\url{https://doi.org/10.1002/cae.70062}.
+
+\bibitem[{Cross(2023)}]{Cross2011}
+\bibinfo{author}{Cross, N.}, \bibinfo{year}{2023}.
+\newblock \emph{\bibinfo{title}{{Design Thinking: Understanding How Designers
+  Think and Work}}}.
+\newblock \bibinfo{edition}{2nd} ed. \bibinfo{publisher}{Bloomsbury Visual
+  Arts}.
+
+\bibitem[{Currie et~al.(2024)Currie, Hewis, Hawk and Rohren}]{Currie2024}
+\bibinfo{author}{Currie, G.}, \bibinfo{author}{Hewis, J.},
+  \bibinfo{author}{Hawk, E.} and \bibinfo{author}{Rohren, E.},
+  \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{{Gender and Ethnicity Bias of Text-to-Image
+  Generative Artificial Intelligence in Medical Imaging, Part 1: Preliminary
+  Evaluation}}.
+\newblock \emph{\bibinfo{journal}{{Journal of Nuclear Medicine Technology}}},
+  \bibinfo{volume}{52}(\bibinfo{number}{4}), pp.\bibinfo{pages}{356--359}.
+\newblock \urlprefix\url{https://doi.org/10.2967/jnmt.124.268332}.
+
+\bibitem[{DeLuca, Volante and Holden(2025)}]{Deluca2025}
+\bibinfo{author}{DeLuca, C.}, \bibinfo{author}{Volante, L.} and
+  \bibinfo{author}{Holden, M.}, \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{{The AI3 Model: Future Directions for Artificial
+  Intelligence, Assessment Innovation, and Academic Integrity}}.
+\newblock \emph{\bibinfo{journal}{{Educational Researcher}}},
+  p.\bibinfo{pages}{0013189X251385537}.
+\newblock \urlprefix\url{https://doi.org/10.3102/0013189X251385537}.
+
+\bibitem[{Dong et~al.(2025)Dong, He, Li, Wang, Lu and Yang}]{Dong2025}
+\bibinfo{author}{Dong, Q.}, \bibinfo{author}{He, J.}, \bibinfo{author}{Li, N.},
+  \bibinfo{author}{Wang, B.}, \bibinfo{author}{Lu, H.} and
+  \bibinfo{author}{Yang, Y.}, \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{{Exploring the Cognitive Reconstruction Mechanism of
+  Generative AI in Outcome-Based Design Education: A Study on Load Optimization
+  and Performance Impact Based on Dual-Path Teaching}}.
+\newblock \emph{\bibinfo{journal}{Buildings}},
+  \bibinfo{volume}{15}(\bibinfo{number}{16}), p.\bibinfo{pages}{2864}.
+\newblock \urlprefix\url{https://doi.org/10.3390/buildings15162864}.
+
+\bibitem[{Fern{\'a}ndez-Morales(2024)}]{FernandezMorales2024}
+\bibinfo{author}{Fern{\'a}ndez-Morales, A.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{{The Possibilities of Text-to-Image Tools for the
+  Generation of Floor Plans}}.
+\newblock In: \bibinfo{editor}{L.~Hermida~Gonz{\'a}lez}, \bibinfo{editor}{J.P.
+  Xavier}, \bibinfo{editor}{A.~Amado~Lorenzo} and \bibinfo{editor}{{\'A}.J.
+  Fern{\'a}ndez-{\'A}lvarez}, eds. \emph{\bibinfo{booktitle}{{Graphic Horizons:
+  Volume 2 - Graphics for Education and Production}}}. \bibinfo{address}{Cham}:
+  \bibinfo{publisher}{Springer Nature Switzerland},
+  \emph{\bibinfo{series}{Springer Series in Design and Innovation}},
+  vol.~\bibinfo{volume}{43}, pp.\bibinfo{pages}{297--307}.
+\newblock \urlprefix\url{https://doi.org/10.1007/978-3-031-57575-4_36}.
+
+\bibitem[{Fleischmann(2024)}]{Fleischmann2024}
+\bibinfo{author}{Fleischmann, K.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{{Making the case for introducing generative
+  artificial intelligence (AI) into design curricula}}.
+\newblock \emph{\bibinfo{journal}{{Art, Design \& Communication in Higher
+  Education}}}, \bibinfo{volume}{23}(\bibinfo{number}{{Thriving Futures: Papers
+  from The Australian Council of University Art \& Design Schools}}),
+  pp.\bibinfo{pages}{187--207}.
+\newblock \urlprefix\url{https://doi.org/https://doi.org/10.1386/adch_00088_1}.
+
+\bibitem[{Fleischmann(2025)}]{Fleischmann2025}
+\bibinfo{author}{Fleischmann, K.}, \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{Making tacit knowledge explicit: the case for online
+  peer feedback in the studio critique}.
+\newblock \emph{\bibinfo{journal}{{International Journal of Technology and
+  Design Education}}}, \bibinfo{volume}{35}(\bibinfo{number}{2}),
+  pp.\bibinfo{pages}{699--721}.
+\newblock \urlprefix\url{https://doi.org/10.1007/s10798-024-09911-8}.
+
+\bibitem[{Iranmanesh and Lotfabadi(2025)}]{Iranmanesh2024}
+\bibinfo{author}{Iranmanesh, A.} and \bibinfo{author}{Lotfabadi, P.},
+  \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{Critical questions on the emergence of text-to-image
+  artificial intelligence in architectural design pedagogy}.
+\newblock \emph{\bibinfo{journal}{{AI {\&} SOCIETY}}},
+  \bibinfo{volume}{40}(\bibinfo{number}{5}), pp.\bibinfo{pages}{3557--3571}.
+\newblock \urlprefix\url{https://doi.org/10.1007/s00146-024-02111-x}.
+
+\bibitem[{Lee and Suh(2024)}]{Lee2024}
+\bibinfo{author}{Lee, J.} and \bibinfo{author}{Suh, S.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{{AI Technology Integrated Education Model for
+  Empowering Fashion Design Ideation}}.
+\newblock \emph{\bibinfo{journal}{Sustainability}},
+  \bibinfo{volume}{16}(\bibinfo{number}{17}), p.\bibinfo{pages}{7262}.
+\newblock \urlprefix\url{https://doi.org/10.3390/su16177262}.
+
+\bibitem[{Levac, Colquhoun and O'Brien(2010)}]{Levac2010}
+\bibinfo{author}{Levac, D.}, \bibinfo{author}{Colquhoun, H.} and
+  \bibinfo{author}{O'Brien, K.K.}, \bibinfo{year}{2010}.
+\newblock \bibinfo{title}{Scoping studies: advancing the methodology}.
+\newblock \emph{\bibinfo{journal}{{Implementation Science}}},
+  \bibinfo{volume}{5}(\bibinfo{number}{1}), p.\bibinfo{pages}{69}.
+\newblock \urlprefix\url{https://doi.org/10.1186/1748-5908-5-69}.
+
+\bibitem[{Liu et~al.(2025)Liu, Xu, Feng and Wu}]{Liu2025}
+\bibinfo{author}{Liu, Y.}, \bibinfo{author}{Xu, B.}, \bibinfo{author}{Feng, J.}
+  and \bibinfo{author}{Wu, P.}, \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{Analysis of the application of generative artificial
+  intelligence in interior design education}.
+\newblock \emph{\bibinfo{journal}{{Ain Shams Engineering Journal}}},
+  \bibinfo{volume}{16}(\bibinfo{number}{12}), p.\bibinfo{pages}{103757}.
+\newblock \urlprefix\url{https://doi.org/10.1016/j.asej.2025.103757}.
+
+\bibitem[{Mazzi(2024)}]{Mazzi2024}
+\bibinfo{author}{Mazzi, F.}, \bibinfo{year}{2024}.
+\newblock \bibinfo{title}{Authorship in artificial intelligence-generated
+  works: Exploring originality in text prompts and artificial intelligence
+  outputs through philosophical foundations of copyright and collage
+  protection}.
+\newblock \emph{\bibinfo{journal}{{The Journal of World Intellectual
+  Property}}}, \bibinfo{volume}{27}(\bibinfo{number}{3}),
+  pp.\bibinfo{pages}{410--427}.
+\newblock \urlprefix\url{https://doi.org/10.1111/jwip.12310}.
+
+\bibitem[{Medel-Vera, Britton and Gates(2025)}]{MedelVera2025}
+\bibinfo{author}{Medel-Vera, C.}, \bibinfo{author}{Britton, S.} and
+  \bibinfo{author}{Gates, W.F.}, \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{{An exploration of the role of generative AI in
+  fostering creativity in architectural learning environments}}.
+\newblock \emph{\bibinfo{journal}{{Computers and Education: Artificial
+  Intelligence}}}, \bibinfo{volume}{9}, p.\bibinfo{pages}{100501}.
+\newblock \urlprefix\url{https://doi.org/10.1016/j.caeai.2025.100501}.
+
+\bibitem[{Munn et~al.(2018)Munn, Peters, Stern, Tufanaru, McArthur and
+  Aromataris}]{Munn2018}
+\bibinfo{author}{Munn, Z.}, \bibinfo{author}{Peters, M.D.J.},
+  \bibinfo{author}{Stern, C.}, \bibinfo{author}{Tufanaru, C.},
+  \bibinfo{author}{McArthur, A.} and \bibinfo{author}{Aromataris, E.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{{Systematic review or scoping review? Guidance for
+  authors when choosing between a systematic or scoping review approach}}.
+\newblock \emph{\bibinfo{journal}{{BMC Medical Research Methodology}}},
+  \bibinfo{volume}{18}(\bibinfo{number}{1}), p.\bibinfo{pages}{143}.
+\newblock \urlprefix\url{https://doi.org/10.1186/s12874-018-0611-x}.
+
+\bibitem[{Perkins(2023)}]{Perkins2023}
+\bibinfo{author}{Perkins, M.}, \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{{Academic Integrity considerations of {AI} Large
+  Language Models in the post-pandemic era: {ChatGPT} and beyond}}.
+\newblock \emph{\bibinfo{journal}{{Journal of University Teaching and Learning
+  Practice}}}, \bibinfo{volume}{20}(\bibinfo{number}{2}), p.\bibinfo{pages}{7}.
+\newblock \urlprefix\url{https://doi.org/10.53761/1.20.02.07}.
+
+\bibitem[{Peters et~al.(2020)Peters, Godfrey, McInerney, Munn, Tricco and
+  Khalil}]{Peters2020}
+\bibinfo{author}{Peters, M.D.J.}, \bibinfo{author}{Godfrey, C.},
+  \bibinfo{author}{McInerney, P.}, \bibinfo{author}{Munn, Z.},
+  \bibinfo{author}{Tricco, A.C.} and \bibinfo{author}{Khalil, H.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{{Scoping Reviews}}.
+\newblock In: \bibinfo{editor}{A.~E} and \bibinfo{editor}{M.~Z}, eds.
+  \emph{\bibinfo{booktitle}{{JBI Reviewer’s Manual}}}.
+\newblock \bibinfo{publisher}{JBI}, chap.~\bibinfo{chapter}{11},
+  pp.\bibinfo{pages}{407--452}.
+\newblock \urlprefix\url{https://doi.org/10.46658/JBIMES-20-12}.
+
+\bibitem[{Polly and Byker(2020)}]{Polly2020}
+\bibinfo{author}{Polly, D.} and \bibinfo{author}{Byker, E.},
+  \bibinfo{year}{2020}.
+\newblock \bibinfo{title}{{Considering the Role of Zone of Proximal Development
+  and Constructivism in Supporting Teachers' {TPACK} and Effective Use of
+  Technology}}.
+\newblock \emph{\bibinfo{journal}{{RED. Revista de Educación a Distancia}}},
+  \bibinfo{volume}{20}(\bibinfo{number}{64}), p.\bibinfo{pages}{5}.
+\newblock \urlprefix\url{https://doi.org/10.6018/red.408661}.
+
+\bibitem[{Pudasaini et~al.(2025)Pudasaini, Miralles-Pechu{\'a}n, Lillis and
+  Llorens~Salvador}]{Pudasaini2025}
+\bibinfo{author}{Pudasaini, S.}, \bibinfo{author}{Miralles-Pechu{\'a}n, L.},
+  \bibinfo{author}{Lillis, D.} and \bibinfo{author}{Llorens~Salvador, M.},
+  \bibinfo{year}{2025}.
+\newblock \bibinfo{title}{{Survey on AI-Generated Plagiarism Detection: The
+  Impact of Large Language Models on Academic Integrity}}.
+\newblock \emph{\bibinfo{journal}{{Journal of Academic Ethics}}},
+  \bibinfo{volume}{23}(\bibinfo{number}{3}), pp.\bibinfo{pages}{1137--1170}.
+\newblock \urlprefix\url{https://doi.org/10.1007/s10805-024-09576-x}.
+
+\bibitem[{Sch{\"o}n(1992)}]{Schon1983}
+\bibinfo{author}{Sch{\"o}n, D.A.}, \bibinfo{year}{1992}.
+\newblock \emph{\bibinfo{title}{{The Reflective Practitioner: How Professionals
+  Think in Action}}}.
+\newblock \bibinfo{address}{London}: \bibinfo{publisher}{Routledge}.
+\newblock \urlprefix\url{https://doi.org/10.4324/9781315237473}.
+
+\bibitem[{Sennett(2008)}]{Sennett2008}
+\bibinfo{author}{Sennett, R.}, \bibinfo{year}{2008}.
+\newblock \emph{\bibinfo{title}{{The Craftsman}}}.
+\newblock \bibinfo{address}{New Haven and London}: \bibinfo{publisher}{Yale
+  University Press}.
+
+\bibitem[{Shulman(2005)}]{Shulman2005}
+\bibinfo{author}{Shulman, L.S.}, \bibinfo{year}{2005}.
+\newblock \bibinfo{title}{Signature pedagogies in the professions}.
+\newblock \emph{\bibinfo{journal}{Daedalus}},
+  \bibinfo{volume}{134}(\bibinfo{number}{3}), pp.\bibinfo{pages}{52--59}.
+\newblock \urlprefix\url{https://doi.org/10.1162/0011526054622015}.
+
+\bibitem[{Tricco et~al.(2018)Tricco, Lillie, Zarin, O'Brien, Colquhoun, Levac,
+  Moher, Peters, Horsley, Weeks, Hempel, Akl, Chang, McGowan, Stewart,
+  Hartling, Aldcroft, Wilson, Garritty, Lewin, Godfrey, Macdonald, Langlois,
+  Soares-Weiser, Moriarty, Clifford, Tunçalp and Straus}]{Tricco2018}
+\bibinfo{author}{Tricco, A.C.}, \bibinfo{author}{Lillie, E.},
+  \bibinfo{author}{Zarin, W.}, \bibinfo{author}{O'Brien, K.K.},
+  \bibinfo{author}{Colquhoun, H.}, \bibinfo{author}{Levac, D.},
+  \bibinfo{author}{Moher, D.}, \bibinfo{author}{Peters, M.D.J.},
+  \bibinfo{author}{Horsley, T.}, \bibinfo{author}{Weeks, L.},
+  \bibinfo{author}{Hempel, S.}, \bibinfo{author}{Akl, E.A.},
+  \bibinfo{author}{Chang, C.}, \bibinfo{author}{McGowan, J.},
+  \bibinfo{author}{Stewart, L.}, \bibinfo{author}{Hartling, L.},
+  \bibinfo{author}{Aldcroft, A.}, \bibinfo{author}{Wilson, M.G.},
+  \bibinfo{author}{Garritty, C.}, \bibinfo{author}{Lewin, S.},
+  \bibinfo{author}{Godfrey, C.M.}, \bibinfo{author}{Macdonald, M.T.},
+  \bibinfo{author}{Langlois, E.V.}, \bibinfo{author}{Soares-Weiser, K.},
+  \bibinfo{author}{Moriarty, J.}, \bibinfo{author}{Clifford, T.},
+  \bibinfo{author}{Tunçalp, {\"{O}}.} and \bibinfo{author}{Straus, S.E.},
+  \bibinfo{year}{2018}.
+\newblock \bibinfo{title}{{PRISMA Extension for Scoping Reviews (PRISMA-ScR):
+  Checklist and Explanation}}.
+\newblock \emph{\bibinfo{journal}{{Annals of Internal Medicine}}},
+  \bibinfo{volume}{169}(\bibinfo{number}{7}), pp.\bibinfo{pages}{467--473}.
+\newblock \urlprefix\url{https://doi.org/10.7326/M18-0850}.
+
+\bibitem[{T{\"{u}}fek(2022)}]{Tufek2022}
+\bibinfo{author}{T{\"{u}}fek, T.E.}, \bibinfo{year}{2022}.
+\newblock \bibinfo{title}{{An Unexpected Shift to an Online Design Studio
+  Course: Student Insights on Design Critiques}}.
+\newblock \emph{\bibinfo{journal}{{International Journal of Art \& Design
+  Education}}}, \bibinfo{volume}{41}(\bibinfo{number}{1}),
+  pp.\bibinfo{pages}{158--170}.
+\newblock \urlprefix\url{https://doi.org/10.1111/jade.12400}.
+
+\bibitem[{Turchi et~al.(2023)Turchi, Carta, Ambrosini and Malizia}]{Turchi2023}
+\bibinfo{author}{Turchi, T.}, \bibinfo{author}{Carta, S.},
+  \bibinfo{author}{Ambrosini, L.} and \bibinfo{author}{Malizia, A.},
+  \bibinfo{year}{2023}.
+\newblock \bibinfo{title}{{Human-AI Co-creation: Evaluating the Impact of
+  Large-Scale Text-to-Image Generative Models on the Creative Process}}.
+\newblock In: \bibinfo{editor}{L.D. Spano}, \bibinfo{editor}{A.~Schmidt},
+  \bibinfo{editor}{C.~Santoro} and \bibinfo{editor}{S.~Stumpf}, eds.
+  \emph{\bibinfo{booktitle}{{End-User Development: 9th International Symposium,
+  IS-EUD 2023, Cagliari, Italy, June 6–8, 2023, Proceedings}}}.
+  \bibinfo{address}{Cham}: \bibinfo{publisher}{Springer Nature Switzerland},
+  \emph{\bibinfo{series}{Lecture Notes in Computer Science}}, vol.
+  \bibinfo{volume}{13917}, pp.\bibinfo{pages}{35--51}.
+\newblock \urlprefix\url{https://doi.org/10.1007/978-3-031-34433-6_3}.
+
+\end{thebibliography}

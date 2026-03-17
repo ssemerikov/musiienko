@@ -1,0 +1,48 @@
+\resizebox{\textwidth}{!}{%
+\begin{tikzpicture}[node distance=0.6cm]
+
+% --- Section 1: МЕТА ---
+\node[dia/header=14cm] (h1) {МЕТА};
+\node[dia/lbox=14cm, below=0pt of h1] (b1) {%
+формування готовності майбутніх учителів інформатики до педагогічно обґрунтованої розробки та впровадження ІОР%
+};
+
+% Arrow 1->2
+\node[below=0.6cm of b1] (arr1) {};
+\draw[dia/arrow] (b1.south) -- ++(0,-0.6cm);
+
+% --- Section 2: Зміст ---
+\node[dia/header=14cm, below=1.0cm of b1] (h2) {Зміст};
+\node[dia/lbox=14cm, below=0pt of h2] (b2) {%
+\checkmark{} основи імерсивних технологій (VR, AR, MR, 360°, симуляції);\\[2pt]
+\checkmark{} інструменти та середовища розробки імерсивного контенту;\\[2pt]
+\checkmark{} педагогічне проєктування ІОР;\\[2pt]
+\checkmark{} методика використання ІОР в освітньому процесі;%
+};
+
+% Arrow 2->3
+\draw[dia/arrow] (b2.south) -- ++(0,-0.6cm);
+
+% --- Section 3: Етапи реалізації ---
+\node[dia/header=14cm, below=1.0cm of b2] (h3) {Етапи реалізації};
+\node[dia/lbox=14cm, below=0pt of h3] (b3) {%
+\checkmark{} теоретико-орієнтаційний етап;\\[2pt]
+\checkmark{} інструментально-практичний етап;\\[2pt]
+\checkmark{} проєктувально-конструкторський етап;\\[2pt]
+\checkmark{} апробаційно-рефлексивний етап;\\[2pt]
+\checkmark{} методично-оформлювальний етап;%
+};
+
+% Arrow 3->4
+\draw[dia/arrow] (b3.south) -- ++(0,-0.6cm);
+
+% --- Section 4: Результат ---
+\node[dia/header=14cm, below=1.0cm of b3] (h4) {Результат};
+\node[dia/lbox=14cm, below=0pt of h4] (b4) {%
+\checkmark{} сформовані професійні компетентності з розробки ІОР;\\[2pt]
+\checkmark{} здатність до самостійного створення та впровадження ІОР;\\[2pt]
+\checkmark{} готовність до інтеграції імерсивних технологій у навчальний процес.%
+};
+
+\end{tikzpicture}%
+}

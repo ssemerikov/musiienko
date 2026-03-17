@@ -1,0 +1,26 @@
+{
+  "session_id": "naqa_022_20260129_235928_14682933",
+  "created_at": "2026-01-29T23:59:28.538250",
+  "updated_at": "2026-01-30T00:03:23.476037",
+  "phase": "completed",
+  "case_urls": [
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/14140",
+      "case_id": "14140",
+      "form_url": null,
+      "institution_name": "Черкаський державний фаховий бізнес-коледж",
+      "program_name": "Графічний дизайн"
+    }
+  ],
+  "completed_cases": [
+    "14140"
+  ],
+  "failed_cases": [],
+  "current_index": 1,
+  "total_cases": 1,
+  "statistics": {
+    "total_files_downloaded": 34,
+    "total_components_extracted": 34
+  },
+  "completed_at": "2026-01-30T00:03:23.476026"
+}

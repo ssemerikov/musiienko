@@ -1,0 +1,26 @@
+{
+  "session_id": "naqa_022_20260129_194055_3535e89c",
+  "created_at": "2026-01-29T19:40:55.695505",
+  "updated_at": "2026-01-29T19:43:24.706431",
+  "phase": "completed",
+  "case_urls": [
+    {
+      "case_url": "https://public.naqa.gov.ua/v2/accreditation-folder/14698",
+      "case_id": "14698",
+      "form_url": null,
+      "institution_name": "Національний університет \"Чернігівська політехніка\"",
+      "program_name": "Дизайн візуальних комунікацій"
+    }
+  ],
+  "completed_cases": [
+    "14698"
+  ],
+  "failed_cases": [],
+  "current_index": 1,
+  "total_cases": 1,
+  "statistics": {
+    "total_files_downloaded": 11,
+    "total_components_extracted": 11
+  },
+  "completed_at": "2026-01-29T19:43:24.706417"
+}

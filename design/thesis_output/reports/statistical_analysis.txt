@@ -1,0 +1,75 @@
+============================================================
+DESCRIPTIVE STATISTICS REPORT
+Ukrainian Design Education Programs (Specialty 022)
+============================================================
+
+## PROGRAM OVERVIEW
+
+Total programs analyzed: 122
+
+By degree level:
+  - Bachelor: 74
+  - Master: 43
+  - Phd: 5
+
+## COURSE STATISTICS
+
+Total educational components: 3043
+Unique course names: 1515
+
+By component type:
+  - Required: 2602
+  - Practice: 335
+  - Attestation: 105
+  - Elective: 1
+
+## COURSES PER PROGRAM
+
+Mean: 24.9 (SD: 12.9)
+Range: 7 - 73
+Median: 24
+
+## SYLLABUS COVERAGE
+
+99.0% of courses have syllabi
+
+## LEVEL COMPARISONS
+
+
+Bachelor (n=74):
+  Avg courses: 33.0
+  Required: 28.7
+  Elective: 0.0
+  Elective ratio: 0.0%
+
+Master (n=43):
+  Avg courses: 13.0
+  Required: 10.1
+  Elective: 0.0
+  Elective ratio: 0.0%
+
+Phd (n=5):
+  Avg courses: 8.8
+  Required: 8.0
+  Elective: 0.0
+  Elective ratio: 0.0%
+
+## MOST COMMON COURSES (translated to English)
+
+  104 | 
+   84 | Practice
+   43 | Painting
+   42 | Drawing
+   40 | Philosophy
+   36 | Foreign Language
+   24 | Graphics
+   21 | Work/Project
+   20 | Ukrainian for Professional Communication
+   19 | Ukrainian for Prof. Purposes
+   19 | Educational Practice
+   17 | Design
+   15 | Materials Science
+   14 | Practical Studios
+   14 | Design/Projecting
+
+============================================================

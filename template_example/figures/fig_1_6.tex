@@ -1,0 +1,42 @@
+\resizebox{\textwidth}{!}{%
+\begin{tikzpicture}
+
+% Title
+\node[dia/rbox=15cm] (title)
+  {\textbf{Професійна готовність майбутнього вчителя інформатики до розробки ІОР}};
+
+% Column headers — centers spaced 4cm apart: -6, -2, +2, +6
+\node[dia/rbox=3.3cm, below=1.5cm of title.south, xshift=-6cm] (ch1)
+  {\textbf{Мотиваційний акцент}};
+\node[dia/rbox=3.3cm, below=1.5cm of title.south, xshift=-2cm] (ch2)
+  {\textbf{Теоретичні знання}};
+\node[dia/rbox=3.3cm, below=1.5cm of title.south, xshift=2cm] (ch3)
+  {\textbf{Практичні вміння}};
+\node[dia/rbox=3.3cm, below=1.5cm of title.south, xshift=6cm] (ch4)
+  {\textbf{Особистісні якості}};
+
+% Lines from title to column headers
+\draw[dia/line] (title.south) -- (ch1.north);
+\draw[dia/line] (title.south) -- (ch2.north);
+\draw[dia/line] (title.south) -- (ch3.north);
+\draw[dia/line] (title.south) -- (ch4.north);
+
+% Content boxes
+\node[dia/lrbox=3.3cm, below=0.5cm of ch1] (cb1) {%
+професійний розвиток; готовність до опанування нових технологій; критичне мислення%
+};
+
+\node[dia/lrbox=3.3cm, below=0.5cm of ch2] (cb2) {%
+основи імерсивних технологій; принципи педагогічного проєктування; цифровий дизайн; методика навчання інформатики%
+};
+
+\node[dia/lrbox=3.3cm, below=0.5cm of ch3] (cb3) {%
+інструменти розробки; інтерактивне середовища%
+};
+
+\node[dia/lrbox=3.3cm, below=0.5cm of ch4] (cb4) {%
+відповідальність; самостійна діяльність; професійна співпраця%
+};
+
+\end{tikzpicture}%
+}

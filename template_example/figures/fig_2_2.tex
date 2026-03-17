@@ -1,0 +1,69 @@
+\resizebox{\textwidth}{!}{%
+\begin{tikzpicture}
+\small
+
+% Title
+\node[dia/header=16cm] (title) {Методологічні засади навчання розробки імерсивних освітніх ресурсів};
+
+% Column headers — centers at -6.6, -2.2, +2.2, +6.6 (4.4cm spacing, 3.0cm boxes)
+\node[dia/rbox=3.0cm, minimum height=1.2cm, below=1.8cm of title.south, xshift=-6.6cm] (h1)
+  {\textbf{Ціннісно-світоглядні підходи}};
+\node[dia/rbox=3.0cm, minimum height=1.2cm, below=1.8cm of title.south, xshift=-2.2cm] (h2)
+  {\textbf{Процесуально-діяльнісні підходи}};
+\node[dia/rbox=3.0cm, minimum height=1.2cm, below=1.8cm of title.south, xshift=2.2cm] (h3)
+  {\textbf{Технологічно-інноваційні підходи}};
+\node[dia/rbox=3.0cm, minimum height=1.2cm, below=1.8cm of title.south, xshift=6.6cm] (h4)
+  {\textbf{Системно-структурні підходи}};
+
+% Bullet lists — all anchored to same y as l2 (tallest list)
+\node[dia/lrbox=3.0cm, below=0.4cm of h2] (l2) {%
+  \textbullet~діяльнісний\\
+  \textbullet~конструктивістський\\
+  \textbullet~контекстний\\
+  \textbullet~рефлексивний%
+};
+\node[dia/lrbox=3.0cm, anchor=north] at (h1 |- l2.north) (l1) {%
+  \textbullet~аксіологічний\\
+  \textbullet~компетентнісний%
+};
+\node[dia/lrbox=3.0cm, anchor=north] at (h3 |- l2.north) (l3) {%
+  \textbullet~інноваційний\\
+  \textbullet~когнітивний\\
+  \textbullet~синергетичний%
+};
+\node[dia/lrbox=3.0cm, anchor=north] at (h4 |- l2.north) (l4) {%
+  \textbullet~системний\\
+  \textbullet~інтегративний%
+};
+
+% Lines from title to column headers
+\draw[dia/line] (title.south) -- ++(0,-0.5cm) -| (h1.north);
+\draw[dia/line] (title.south) -- ++(0,-0.5cm) -| (h2.north);
+\draw[dia/line] (title.south) -- ++(0,-0.5cm) -| (h3.north);
+\draw[dia/line] (title.south) -- ++(0,-0.5cm) -| (h4.north);
+
+% Arrows from headers to bullet lists
+\draw[dia/arrow] (h1.south) -- (l1.north);
+\draw[dia/arrow] (h2.south) -- (l2.north);
+\draw[dia/arrow] (h3.south) -- (l3.north);
+\draw[dia/arrow] (h4.south) -- (l4.north);
+
+% Principle boxes — all at same y (below the tallest list l2)
+\node[dia/rbox=3.0cm, below=0.6cm of l2] (p2a) {інтерактивність};
+\node[dia/rbox=3.0cm, anchor=north] at (h1 |- p2a.north) (p1a) {науковість};
+\node[dia/rbox=3.0cm, anchor=north] at (h3 |- p2a.north) (p3a) {варіативність};
+\node[dia/rbox=3.0cm, anchor=north] at (h4 |- p2a.north) (p4a) {практична спрямованість};
+
+\node[dia/rbox=3.0cm, below=0.4cm of p2a] (p2b) {рефлексивність};
+\node[dia/rbox=3.0cm, anchor=north] at (h1 |- p2b.north) (p1b) {безперервність};
+\node[dia/rbox=3.0cm, anchor=north] at (h3 |- p2b.north) (p3b) {креативність};
+\node[dia/rbox=3.0cm, anchor=north] at (h4 |- p2b.north) (p4b) {інтеграція};
+
+% Arrows from bullet lists to principle boxes
+\draw[dia/arrow] (l1.south) -- (p1a.north);
+\draw[dia/arrow] (l2.south) -- (p2a.north);
+\draw[dia/arrow] (l3.south) -- (p3a.north);
+\draw[dia/arrow] (l4.south) -- (p4a.north);
+
+\end{tikzpicture}%
+}

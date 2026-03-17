@@ -1,0 +1,50 @@
+============================================================
+AI & DIGITAL SKILLS GAP ANALYSIS
+Ukrainian Design Education Programs (Specialty 022)
+============================================================
+
+## COVERAGE SUMMARY
+
+Skills checked: 10
+Fully covered: 7
+Partially covered: 0
+Missing: 3
+
+## COVERAGE SCORES
+
+AI Core Skills: 0.0%
+Digital Tools: 71.4%
+Overall: 35.7%
+
+## MISSING SKILLS
+
+  [X] AI Fundamentals
+  [X] Generative AI & Design
+  [X] Computer Vision
+
+## SKILL DETAILS
+
+[+] 3D Design & Modeling: 100.0%
+    Matching courses: 3D Modeling, 3D Modeling, Graphics
+[+] Motion Design & Animation: 100.0%
+    Matching courses: Photo and Video Editing, Photo-Video Design Basics, Animation
+[+] UX/UI Design: 100.0%
+    Matching courses: Interface Design, Interface Design, Web Design
+[+] Interactive & Computational Design: 100.0%
+    Matching courses: Web Design and Programming, Screen Printing, 23 Web дизайн та web програму...
+[+] 2D Digital Design Tools: 33.3%
+    Matching courses: Animation
+[+] Data Visualization: 33.3%
+    Matching courses: Infographics
+[+] VR/AR Design: 33.3%
+    Matching courses: English for Career Development, Graphics
+[X] AI Fundamentals: 0.0%
+[X] Generative AI & Design: 0.0%
+[X] Computer Vision: 0.0%
+
+## RECOMMENDATIONS
+
+1. Add introductory course on AI/ML basics for designers, covering concepts without deep technical requirements
+2. Integrate generative AI tools (Midjourney, DALL-E, Stable Diffusion) into existing design courses or create dedicated workshop
+
+============================================================

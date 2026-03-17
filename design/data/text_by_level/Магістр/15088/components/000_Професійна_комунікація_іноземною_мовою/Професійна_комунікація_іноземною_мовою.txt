@@ -1,0 +1,477 @@
+Міжнародний гуманітарний університет
+Факультет лінгвістики та перекладу
+Кафедра іноземних мов професійного спілкування
+СИЛАБУС НАВЧАЛЬНОЇ ДИСЦИПЛІНИ
+ПРОФЕСІЙНА КОМУНІКАЦІЯ ІНОЗЕМНОЮ МОВОЮ
+Галузь знань В Культура, мистецтво та гуманітарні науки
+Спеціальність В2 Дизайн
+Назва освітньої програми Дизайн
+Рівень вищої освіти другий (магістерський) рівень
+Розробники і викладачі Контактний тел. E-mail
+Доцент кафедри іноземних мов професійного спілкування
+Вікторія Володимирівна Громовенко +38 068-761-82-46 Gromovenko.Viktorya@ukr.net
+1. АНОТАЦІЯ ДО КУРСУ
+Дисципліна «Професійна комунікація іноземною мовою» спрямована на формування та розвиток комунікативних навиків, що сприяє
+соціальній стійкості й мобільності випускника на ринку праці та є однією з цілей навчання. Під час вивчення відбувається формування всіх
+навичок мовленнєвої діяльності – читання, аудіювання та говоріння, але особлива увага приділяється усному та письмовому спілкуванню в
+вигляді наукових статей, повідомлень, доповідей, ділових звітів тощо. Особлива увага приділяється опануванню термінології фаху,
+вдосконаленню граматичної та стилістичної грамотності, а також формуванню міжкультурної комунікативної компетентності, що сприяє
+підготовці студентів до ефективної інтеграції у міжнародний науково-професійний простір. У результаті вивчення дисципліни студенти
+набувають умінь використовувати іноземну мову як інструмент професійної діяльності, самопрезентації, академічної взаємодії та
+міжкультурного діалогу.
+Мета курсу вивчення навчальної дисципліни є формування у магістрів професійно-орієнтованої комунікативної мовленнєвої компетенції,
+яка сприятиме проведенню наукових досліджень, необхідних для написання магістерської роботи і поданню результатів їхніх досліджень
+іноземною мовою як в усній, так і в письмовій формі.
+Передумови для вивчення дисципліни «Професійна комунікація іноземною мовою» полягають у наявності в здобувачів базових знань
+з іноземної мови на рівні B1-B2 відповідно до Загальноєвропейських рекомендацій з мовної освіти; основ академічного та ділового письма;
+навичок роботи з науковими та професійними текстами іноземною мовою; вмінь користуватися сучасними інформаційно-комунікаційними
+технологіями для пошуку, аналізу й презентації професійної інформації; знань з базових дисциплін гуманітарного циклу, що сприяють розвитку
+культури мовлення та критичного мислення.
+
+Отримання знань та міждисциплінарна інтеграція. Вивчення дисципліни «Професійна комунікація іноземною мовою» відбувається
+протягом трьох семестрів і спрямоване на послідовне формування та вдосконалення іншомовної комунікативної компетентності магістрів-
+дизайнерів у професійній, науковій та міжкультурній сферах спілкування. Це сприяє розвитку вмінь міжкультурного діалогу, академічного
+письма, професійної мобільності та готовності до участі в міжнародних науково-творчих проєктах.
+На початковому етапі вивчення дисципліни студенти оволодівають базовими навичками професійно орієнтованої комунікації, необхідними
+для розуміння та створення фахових текстів у сфері дизайну. Здобувачі розвивають уміння працювати з науковими джерелами, виконувати
+письмові й усні завдання (есе, анотації, презентації, рецензії), застосовувати професійну термінологію та граматичні конструкції у відповідних
+контекстах. Набуті знання безпосередньо інтегруються у процес вивчення дисциплін «Комп’ютерне проєктування» та «Методологія і організація
+наукових досліджень», де іноземна мова використовується як інструмент доступу до міжнародних наукових публікацій, технічних описів і
+презентацій проектів. Це сприяє формуванню умінь здійснювати аналітичний переклад, узагальнювати результати досліджень іноземною мовою
+та представляти їх у професійній формі.
+Продовження вивчення дисципліни «Професійна комунікація іноземною мовою» у другому семестрі передбачає вдосконалення навичок
+академічного письма та усного виступу у професійних контекстах. Акцент робиться на розвитку здатності до міжкультурної взаємодії, участі у
+наукових дискусіях, підготовці тез доповідей та статей англійською мовою. Здобуті знання інтегруються у практичну діяльність при опануванні
+дисципліни «Комп’ютерне проєктування», де студенти презентують власні творчі проєкти з використання джерел іноземною мовою,
+формулюють технічні завдання, створюють анотації та описові матеріали до дизайн-розробок у міжнародному форматі.
+На завершальному етапі вивчення дисципліни основна увага приділяється підготовці магістрів до професійної самопрезентації та публічної
+комунікації у міжнародному середовищі. Студенти вдосконалюють навички створення усних доповідей, резюме, портфоліо, супровідних листів
+і презентацій для участі у конкурсах, конференціях та грантових програмах. Вивчення дисципліни у третьому семестрі тісно пов’язане з
+«Переддипломною практикою», під час якої здобувачі застосовують отримані знання у реальних професійних ситуаціях – спілкуванні з
+партнерами, підготовці звітної документації, описі результатів практики та презентації власного проєкту іноземною мовою.
+Послідовне вивчення дисципліни «Професійна комунікація іноземною мовою» у трьох семестрах забезпечує цілісне формування
+комунікативної компетентності майбутнього магістра-дизайнера.
+2. ОЧІКУВАНІ КОМПЕТЕНТНОСТІ, ЯКІ ПЛАНУЄТЬСЯ СФОРМУВАТИ
+ТА ДОСЯГНЕННЯ ПРОГРАМНИХ РЕЗУЛЬТАТІВ
+У процесі реалізації програми дисципліни «Професійна комунікація іноземною мовою» формуються наступні компетентності із
+передбачених освітньою програмою:
+Інтегральна компетентність
+Здатність розв’язувати складні задачі і проблеми у галузі дизайну або у процесі навчання, що передбачає проведення досліджень та/або
+здійснення інновацій та характеризується невизначеністю умов і вимог
+Загальні компетентності (ЗК)
+ЗК 3. Здатність спілкуватися з представниками інших професійних груп різного рівня (з експертами з інших галузей знань/видів економічної
+діяльності).
+ЗК 4. Здатність працювати в міжнародному контексті
+
+Спеціальні (фахові) компетентності
+СК 10. Вміння переконливо демонструвати споживачу привабливу культурну цінність та економічну вартість створеного креативного продукту.
+СК 11. Здатність вільно і впевнено презентувати свої ідеї (художню інтерпретацію) в дизайні реклами, виставок та масових заходів.
+Навчальна дисципліна «Професійна комунікація іноземною мовою» забезпечує досягнення програмних результатів навчання (РН),
+передбачених освітньою програмою:
+ПРН 3. Обирати певну модель поведінки при спілкуванні з представниками інших професійних груп різного рівня.
+ПРН 4. Представляти результати діяльності у науковому та професійному середовищі в Україні та поза її межами.
+ПРН 18. Обирати оптимальні методи взаємодії та сучасні технології комунікації з аудиторією, вільно і впевнено презентувати свої ідеї
+(художню інтерпретацію) в дизайні реклами, виставок та масових заходів.
+3. ОБСЯГ ТА ОЗНАКИ КУРСУ
+Вид заняття
+Загалом Ознаки курсу
+(денне відділення / заочне відділення)
+ЄКТС Лекційні Практичні Самостійна Обов’язкова /
+годин Курс Семестр
+заняття заняття робота вибіркова
+6 180 - 48 132 1 1-3 Основна
+4. СТРУКТУРА НАВЧАЛЬНОЇ ДИСЦИПЛІНИ
+1 семестр
+Кількість годин
+денна форма заочна форма
+Назви змістових модулів і тем
+у тому числі у тому числі
+усього усього
+лекц. практ сам.роб. лекц. практ сам.роб.
+Topic 1. Theory and history of design 12 2 10 10
+Topic 2. Information and communication technologies in modern design 16 4 12 16
+Topic 3. Analysis of design projects 16 4 12 12
+Topic 4. History of Ukrainian design 16 4 12 14
+Усього годин 60 14 46 90
+ПІДСУМКОВИЙ КОНТРОЛЬ – ЗАЛІК
+
+2 семестр
+Кількість годин
+денна форма заочна форма
+Назви змістових модулів і тем у тому числі у тому числі
+усього усього
+лекц. практ сам.роб. лекц. практ сам.роб.
+Topic 1. Types of design 18 8 10
+Topic 2. Professional design skills and their application 20 8 12
+Topic 3. Artistic and figurative means of designer activity 22 10 12
+Усього годин 60 26 34
+ПІДСУМКОВИЙ КОНТРОЛЬ – ЗАЛІК
+3 семестр
+Кількість годин
+денна форма заочна форма
+Назви змістових модулів і тем у тому числі у тому числі
+усього усього
+лекц. практ сам.роб. лекц. практ сам.роб.
+Topic 1. Basics of Business Correspondence 14 2 12
+Topic 2. Presentations of Design Projects 14 2 12
+Topic 3. Etiquette and Business Etiquette in Design 32 4 28
+Усього годин 60 8 52
+ПІДСУМКОВИЙ КОНТРОЛЬ – ЕКЗАМЕН
+5. ТЕХНІЧНЕ Й ПРОГРАМНЕ ЗАБЕЗПЕЧЕННЯ / ОБЛАДНАННЯ
+Студенти отримують теми та питання курсу, основну і додаткову літературу, рекомендації, завдання та оцінки за їх виконання як
+традиційним шляхом, так і з використанням університетської платформи он-лайн навчання на базі Moodle. Окрім того, практичні навички у
+пошуку та аналізу інформації за курсом, з оформлення індивідуальних завдань, тощо, студенти отримують, користуючись університетськими
+комп’ютерними класами та бібліотекою.
+
+6. САМОСТІЙНА РОБОТА
+До самостійної роботи здобувачів щодо вивчення дисципліни «Професійна комунікація іноземною мовою» включаються:
+1. Знайомство з науковою та навчальною літературою відповідно зазначених у програмі тем.
+2. Опрацювання матеріалу та прослуховування рекомендованих відео- і аудіо- матеріалів, вивчення тем, рекомендованих до навчання.
+3. Підготовка до практичних занять.
+4. Самостійне опрацювання окремих питань навчальної дисципліни.
+5. Підготовка та виконання індивідуальних завдань у вигляді есе
+6. Підготовка доповідей на задану тему, участь у групових проектах.
+7. Підготовка до підсумкового контролю.
+Тематика та питання до самостійної підготовки та індивідуальних завдань
+1 семестр
+Кількість годин
+№ з/п Назва теми денна заочна
+форма форма
+1 Topic 1. Theory and history of design
+Questions for self-study:
+1. Stages of the development of design as a separate branch of creative activity.
+2. Main theoretical approaches to understanding the essence of design.
+3. The influence of the industrial revolution on the formation of design thinking.
+4. Key representatives and schools of design of the 20th century (Bauhaus, Ulm School, etc.). 10
+5. Evolution of design functions: from aesthetics to a socio-communicative tool.
+Individual tasks / Essay:
+• Essay: “The role of design in shaping the culture of modern society”.
+• Comparative analysis: “Differences between classical and modern approaches to design”.
+• Preparation of a presentation about one of the design theorists and his influence on the development of the discipline.
+2 Topic 2. Information and communication technologies in modern design
+Questions for self-study:
+1. Digitalization as a factor in the transformation of modern design. 12
+2. Basic software tools for graphic, web and multimedia design.
+3. The role of artificial intelligence, augmented and virtual reality in creative processes.
+
+4. Features of communication between the designer and the customer in the digital environment.
+5. Ethical aspects of using ICT in creative activities.
+Individual tasks / Essays:
+• Essay: “Artificial intelligence as a new tool for the designer’s creativity”.
+• Analytical task: “Comparison of digital platforms for creating design projects”.
+• • Case preparation: “Use of interactive technologies in visual brand communication”.
+3 Topic 3. Analysis of design projects
+Questions for self-study:
+1. Methods of design analysis: aesthetic, functional, semiotic, sociocultural.
+2. Criteria for evaluating the effectiveness of design solutions.
+3. Principles of forming visual communication in branding, advertising, architectural design.
+4. The relationship between form, content and context in a design project.
+12
+5. The role of user experience (UX/UI) in modern design.
+Individual tasks / Essays:
+• Essay: “Critical analysis of a modern design project: from idea to implementation”.
+• Research: “Visual language of a brand as a means of communication with the audience”.
+• • Practical task: prepare a review of three design solutions from different industries (graphic, industrial, environmental design)
+with your own conclusions.
+4 Topic 4. History of Ukrainian Design
+Questions for self-study:
+1. The origins of Ukrainian design: folk art, decorative and applied art, crafts.
+2. The formation of the Ukrainian school of design in the 20th century.
+3. The influence of the Soviet period on the development of national design.
+4. Modern trends and leading figures of Ukrainian design. 12
+5. National motifs and identity in modern design practices.
+Individual tasks / Essays:
+• Essay: “National traditions as a source of innovation in modern Ukrainian design”.
+• Research: “The figure of a Ukrainian designer who influenced the development of visual culture of the 20th–21st centuries”.
+• • Creation of an analytical review of modern Ukrainian brands that integrate ethnocultural elements into their visual style.
+Всього 46
+
+2 семестр
+Кількість годин
+№ з/п Назва теми денна заочна
+форма форма
+1 Topic 1. Types of Design
+Questions for self-study:
+1. What are the main directions of modern design that are distinguished in the professional environment (graphic design,
+product design, interior design, fashion design, etc.)?
+2. What are the specifics of communication between representatives of different design industries?
+3. How does globalization affect the development of types of design and the emergence of interdisciplinary directions?
+10
+4. What role does a foreign language play in international cooperation between designers?
+Individual tasks / Essays (examples of topics):
+• The Role of Intercultural Communication in Modern Design Practices
+• How Global Trends Influence Different Types of Design
+• Comparative Analysis of Graphic and Product Design Approaches
+• • Design as a Universal Language of Visual Communication
+2 Topic 2. Professional design skills and their application
+Questions for self-study:
+1. What professional competencies are key for a modern designer?
+2. How does the combination of creative and technical skills form a competitive specialist?
+3. What communication skills are necessary for effective work in international design teams?
+4. How does a foreign language help to present one's own design solutions on the global market? 12
+Individual tasks / Essays (examples of topics):
+• Essential Skills of a Modern Designer: Creativity, Technology, and Communication
+• The Importance of Professional Communication in Design Projects
+• Teamwork and Collaboration in International Design Environments
+• • Self-Presentation of a Designer: Portfolio and Verbal Communication Skills
+3 Topic 3. Artistic and Expressive Means of a Designer's Activity
+Questions for Self-Study:
+1. What artistic and expressive means form the language of design? 12
+2. How do color, form, composition, and rhythm affect the perception of a design product?
+3. What is the role of cultural and national symbols in the formation of a design image?
+
+4. How do verbal means of communication (description, presentation, argumentation) contribute to the disclosure of a creative
+idea?
+Individual tasks / Essays (examples of topics):
+• Artistic and Expressive Means in Visual Communication
+• Cultural Symbols as a Source of Inspiration in Design
+• The Language of Form and Color in Contemporary Design
+• • How Verbal Description Shapes the Perception of a Design Concept
+Всього 34
+3 семестр
+Кількість годин
+№ з/п Назва теми денна заочна
+форма форма
+1 Topic 1. Basics of Business Correspondence
+Topics for self-study:
+• Structure and stylistic features of a business letter in English.
+• Types of business letters: request, proposal, confirmation, complaint, recommendation.
+• Use of polite formulas and professional terminology in electronic correspondence.
+• Features of formatting electronic messages in international business and design.
+Questions for self-study:
+1. What are the differences between formal and informal style in business correspondence?
+12
+2. How to structure a business letter correctly (introduction, main part, conclusion)?
+3. What are the typical mistakes in English-language business letters?
+4. How do cultural features affect the style of written communication?
+Individual tasks:
+• Compose an example of a business letter of inquiry to a potential partner or gallery in English.
+• Translate a Ukrainian business letter into a foreign language, observing linguistic and stylistic norms.
+Essay:
+“The Role of Business Correspondence in Building Professional Relationships in Design”
+2 Topic 2. Design Project Presentations
+Topics for independent preparation: 12
+• Structure of an effective design project presentation.
+
+• Vocabulary and phrases for describing the concept, idea, process and results of the project.
+• Visual materials in the presentation: slides, portfolio, demonstration videos.
+• Interaction with the audience during a public speech.
+Questions for independent study:
+1. What are the main stages of preparing an oral presentation of a design project?
+2. How to combine verbal and visual means for effective perception of information?
+3. What language means help to maintain the attention of the audience?
+4. How to overcome anxiety during a speech in English?
+Individual tasks:
+• Prepare a short oral presentation of your own or educational design project in English (5–7 min).
+• Create a structure of slides for an English-language presentation, taking into account professional terminology.
+Essay:
+“Presenting Design Ideas: Language, Visuals, and Persuasion”
+3 Topic 3. Etiquette and business etiquette in design
+Topics for independent study:
+• Culture of professional communication in the international design environment.
+• Verbal and non-verbal means of communication.
+• Norms of behavior during business meetings, negotiations, exhibitions and presentations.
+• Intercultural differences in business etiquette.
+Questions for independent study:
+1. What rules of professional etiquette are universal?
+28
+2. How do cultural characteristics affect the norms of communication in the field of design?
+3. How is professional ethics manifested when working with foreign clients?
+4. What is the importance of non-verbal communication in professional interaction?
+Individual tasks:
+• Prepare a short scenario of a business meeting between a designer and a client in English.
+• Create a comparative table of the features of business etiquette in Ukraine and one other country.
+Essay:
+“Cultural Awareness and Professional Etiquette in International Design Practice”
+Всього 52
+
+7. ВИДИ ТА МЕТОДИ КОНТРОЛЮ
+1,2 семестри
+Види контролю Складові оцінювання
+поточний контроль, який здійснюється у ході: проведення практичних занять, виконання самостійної
+100%
+роботи, індивідуального завдання, дослідна робота здобувача тощо
+Методи діагностики знань (контролю) фронтальне опитування; наукова доповідь, есе, усне повідомлення, індивідуальне опитування;
+робота у групах; ділова гра, розв`язання ситуаційних завдань, кейсів, практичних завдань, залік
+3 семестр
+Види контролю Складові оцінювання
+поточний контроль, який здійснюється у ході: проведення практичних занять, виконання самостійної
+50%
+роботи, індивідуального завдання, дослідна робота здобувача тощо
+підсумковий контроль 50%
+фронтальне опитування; наукова доповідь, есе, усне повідомлення, індивідуальне опитування;
+Методи діагностики знань (контролю)
+робота у групах; ділова гра, розв`язання ситуаційних завдань, кейсів, практичних завдань, екзамен
+8. ОЦІНЮВАННЯ ЗДОБУВАЧІВ ВИЩОЇ ТА ФАХОВОЇ ПЕРДВИЩОЇ ОСВІТИ ЗА НАВЧАЛЬНУ ДИСЦИПЛІНУ
+У МІЖНАРОДНОМУ ГУМАНІТАРНОМУ УНІВЕРСИТЕТІ
+(поточний контроль, підсумковий контроль, загальний результат оцінювання)
+ЗАЛІК
+Поточний контроль
+Максимальний
+Види роботи Планові терміни виконання Форми контролю та звітності
+відсоток оцінювання
+Систематичність і активність роботи на практичних заняттях
+1.1. Підготовка до практичних занять Відповідно до робочої Перевірка обсягу та якості засвоєного
+програми та розкладу занять матеріалу під час практичних занять 60
+Виконання завдань для самостійного опрацювання
+1.2. Індивідуальне тестування, завдання, Відповідно до робочої Розгляд відповідного матеріалу під час
+підготовка есе за заданою тематикою програми та розкладу занять аудиторних занять або ІКР1, перевірка 20
+конспектів навчальних текстів тощо
+1 Індивідуально-консультативна робота викладача зі здобувачами
+
+Виконання індивідуальних завдань, дослідна робота здобувача
+1.3. Інші види індивідуальних завдань, в Відповідно до робочої Обговорення результатів проведеної
+т.ч. підготовка наукових публікацій, участь програми та розкладу занять роботи під час аудиторних занять, 20
+у роботі круглих столів, конференцій тощо. наукових конференцій та круглих столів.
+Разом балів за поточний контроль 100
+Загальний результат оцінювання 100
+Поточний контроль знань здобувачів освіти при формі контролю залік (максимум 100 балів) оцінюється за шкалою («2», «3», «4», «5»), з
+обов’язковим переведенням балів за кожний вид роботи таким чином:
+- за підготовку до аудиторних занять (максимум 60 балів) здобувачу освіти необхідно мати не менше 1/2 оцінок від загальної кількості
+практичних занять, для переводу балів за підготовку до аудиторних занять середньоарифметична оцінка множиться на коефіцієнт 12;
+- за виконання завдань для самостійного опрацювання (тестування, завдання, підготовка есе за заданою тематикою) (максимум 20 балів)
+здобувачу освіти необхідно мати не менше 1/2 оцінок від загальної кількості програмного матеріалу, що виноситься на самостійне вивчення,
+для переводу зазначених балів середньоарифметична оцінка множиться на коефіцієнт 4;
+- за інші види індивідуальних завдань, в т.ч. підготовку наукових публікацій, участь у роботі круглих столів, конференцій тощо (максимум 20-
+балів) здобувачу освіти необхідно мати не менше 1/2 оцінок від загальної кількості інших видів індивідуальних завдань, для переводу балів
+за підготовку до аудиторних занять середньоарифметична оцінка множиться на коефіцієнт 4.
+ЕКЗАМЕН
+Поточний контроль
+Максимальний
+Види роботи Планові терміни виконання Форми контролю та звітності
+відсоток оцінювання
+Систематичність і активність роботи на практичних заняттях
+1.1. Підготовка до практичних занять Відповідно до робочої Перевірка обсягу та якості засвоєного
+програми та розкладу занять матеріалу під час практичних занять 30
+Виконання завдань для самостійного опрацювання
+1.2. Індивідуальне тестування, завдання, Відповідно до робочої Розгляд відповідного матеріалу під час 10
+підготовка есе за заданою тематикою програми та розкладу занять аудиторних занять або ІКР2, перевірка
+конспектів навчальних текстів тощо
+Виконання індивідуальних завдань, дослідна робота здобувача
+1.3. Інші види індивідуальних завдань, в Відповідно до робочої Обговорення результатів проведеної
+т.ч. підготовка наукових публікацій, участь програми та розкладу занять роботи під час аудиторних занять, 10
+у роботі круглих столів, конференцій тощо. наукових конференцій та круглих столів.
+2 Індивідуально-консультативна робота викладача зі здобувачами
+
+Разом балів за поточний контроль 50
+Підсумковий контроль
+екзамен 50
+Загальний результат оцінювання 100
+Поточний контроль знань здобувачів освіти при формі контролю екзамен (максимум 50 балів) оцінюється за шкалою («2», «3», «4», «5»), з
+обов’язковим переведенням балів за кожний вид роботи таким чином:
+- за підготовку до аудиторних занять (максимум 30 балів) здобувачу освіти необхідно мати не менше 1/2 оцінок від загальної кількості
+практичних занять, для переводу балів за підготовку до аудиторних занять середньоарифметична оцінка множиться на коефіцієнт 6;
+- за виконання завдань для самостійного опрацювання (тестування, завдання, підготовка есе за заданою тематикою) (максимум 10 балів)
+здобувачу освіти необхідно мати не менше 1/2 оцінок від загальної кількості програмного матеріалу, що виноситься на самостійне вивчення,
+для переводу зазначених балів середньоарифметична оцінка множиться на коефіцієнт 2;
+- за інші види індивідуальних завдань, в т.ч. підготовку наукових публікацій, участь у роботі круглих столів, конференцій тощо (максимум 10-
+балів) здобувачу освіти необхідно мати не менше 1/2 оцінок від загальної кількості інших видів індивідуальних завдань, для переводу балів
+за пдготовку до аудиторних занять середньоарифметична оцінка множиться на коефіцієнт 2.
+9. КРИТЕРІЇ ЗАГАЛЬНИХ РЕЗУЛЬТАТІВ ОЦІНЮВАННЯ ЗНАНЬ ЗДОБУВАЧІВ
+(для екзамену / заліку)
+Рівень знань оцінюється:
+- «відмінно» / «зараховано» А - від 90 до 100 балів. Студент виявляє особливі творчі здібності, вміє самостійно знаходити та опрацьовувати
+необхідну інформацію, демонструє знання матеріалу, проводить узагальнення і висновки. Був присутній на практичних заняттях, під час яких
+давав вичерпні, обґрунтовані, теоретично і практично правильні відповіді, має конспект з виконаними завданнями до самостійної роботи,
+презентував есе за заданою тематикою, проявляє активність і творчість у науково-дослідній роботі;
+- «добре» / «зараховано» В - від 82 до 89 балів. Студент володіє знаннями матеріалу, але допускає незначні помилки у формуванні термінів,
+категорій, проте за допомогою викладача швидко орієнтується і знаходить правильні відповіді. Був присутній на практичних заняттях, має
+конспект з виконаними завданнями до самостійної роботи, презентував есе за заданою тематикою, проявляє активність і творчість у науково-
+дослідній роботі;
+- «добре» / «зараховано» С - від 74 до 81 балів. Студент відтворює значну частину теоретичного матеріалу, виявляє знання і розуміння
+основних положень, з допомогою викладача може аналізувати навчальний матеріал, але дає недостатньо обґрунтовані, невичерпні відповіді,
+допускає помилки. При цьому враховується наявність конспекту з виконаними завданнями до самостійної роботи, есе та активність у науково-
+дослідній роботі;
+- «задовільно» / «зараховано» D - від 64 до 73 балів. Студент був присутній не на всіх практичних заняттях, володіє навчальним матеріалом
+на середньому рівні, допускає помилки, серед яких є значна кількість суттєвих. При цьому враховується наявність конспекту з виконаними
+завданнями до самостійної роботи, есе;
+- «задовільно» / «зараховано» Е - від 60 до 63 балів. Студент був присутній не на всіх практичних заняттях, володіє навчальним матеріалом
+
+на рівні, вищому за початковий, значну частину його відтворює на репродуктивному рівні, на всі запитання дає необґрунтовані, невичерпні
+відповіді, допускає помилки, має неповний конспект з завданнями до самостійної роботи.
+- «незадовільно з можливістю повторного складання» / «не зараховано» FX – від 35 до 59 балів. Студент володіє матеріалом на рівні окремих
+фрагментів, що становлять незначну частину навчального матеріалу.
+- «незадовільно з обов’язковим повторним вивченням дисципліни» / «не зараховано» F – від 0 до 34 балів. Студент не володіє навчальним
+матеріалом.
+ТАБЛИЦЯ ВІДПОВІДНОСТІ ЗАГАЛЬНИХ РЕЗУЛЬТАТІВ ОЦІНЮВАННЯ ЗНАНЬ ЗА РІЗНИМИ ШКАЛАМИ
+За національною шкалою
+100-бальною шкалою Шкала за ECTS
+екзамен залік
+90-100 A Відмінно
+82-89 B
+Добре
+74-81 C Зараховано
+64-73 D
+Задовільно
+60-63 E
+35-59 FХ
+Незадовільно Не зараховано
+1-34 F
+10. ДОТРИМАННЯ ВИМОГ АКАДЕМІЧНОЇ ДОБРОЧЕСНОСТІ
+Викладання та засвоєння навчальної дисципліни передбачає неухильне дотримання вимог академічної доброчесності, яка регулюється
+Законом України “Про освіту” (Відомості Верховної Ради (ВВР), 2014, № 37-38, ст.2004), «Методичними рекомендаціями для закладів вищої
+освіти з підтримки принципів академічної доброчесності» (Лист МОН № 1/9-650 від 23.10.18 року), іншими нормативними документами.
+Зокрема, основні засади дотримання академічної доброчесності визначено у «Положенні про академічну доброчесність у Міжнародному
+гуманітарному університеті», «Кодексі академічної доброчесності Міжнародного гуманітарного університету» та «Інструкції щодо процедури
+технічної перевірки на наявність текстових запозичень (академічного плагіату)», затвердженої наказом МГУ від 03.05.2024 р., № 708а.
+Відповідно до ст.42 Закону України «Про освіту» академічна доброчесність - це сукупність етичних принципів та визначених законом
+правил, якими мають керуватися учасники освітнього процесу під час навчання, викладання та провадження наукової (творчої) діяльності з
+метою забезпечення довіри до результатів навчання та/або наукових (творчих) досягнень.
+Дотримання академічної доброчесності передбачає:
+- самостійне виконання навчальних завдань, завдань поточного та підсумкового контролю результатів навчання (для осіб з особливими
+освітніми потребами ця вимога застосовується з урахуванням їхніх індивідуальних потреб і можливостей);
+- посилання на джерела інформації у разі використання ідей, розробок, тверджень, відомостей;
+- дотримання норм законодавства про авторське право і суміжні права;
+- надання достовірної інформації про результати власної навчальної (наукової, творчої) діяльності, використані методики досліджень і
+джерела інформації.
+11. РЕКОМЕНДОВАНА ЛІТЕРАТУРА
+
+Основна
+1 Огреніч М.А., Мар’янко Я.Г., Зайцева О.Ю. Business English: навч.посібн. Одеса: Одеська державна академія будівництва та архітектури,
+2023. 170 с.
+2 Англiйська мова для дизайнерiв: Навчальний посібник. / Під ред. Н. Мукан. Львівська політехніка, 2018. 468 с.
+3 Бірта Г. О., Бургу Ю. Г. Методологія і організація наукових досліджень: навч. посіб. Київ : «Центр учбової літератури», 2014. 142 с.
+4 Дейниченко Г.В., Постнов Г.М. Методологія і організація наукових досліджень: навч. посібник. Харків : Вид-во ХДУХТ, 2014. 115 с.
+5 Мукан Н. В., Бурбан І. І., Голощук С. Л., Дуда Л. В., Кравець С. Ф., та ін. Foreign Language for Specific Purposes. English for Designers.
+Видавництво Львівської політехніки, 2020. 280 c.
+6 Evans V., Dooley J., Rogers H.P. Art & Design . Express Publishing, 2016.106 p
+7 Fiell Charlotte & Peter. Contemporary Graphic Design. Taschen Publishers, 2018. 560 p.
+8 Amazing People Club. Amazing Performers. Level 1. Collins. English Readers, 2019. 265 p.
+9 Hempelman R. English for Graphic Designers. L. Brandt, 2019. 176 p.
+Шейко В. М. Наукова творчість у галузі культурології і мистецтвознавства: навч. посіб. / В. М. Шейко, Ю. П. Богуцький, Н. М.
+10
+Кушнаренко. Харків : ХДАК, 2016. 330 с.
+11 Muller J. Logo Beginnings. Taschen Publishers, 2022. 432 p
+Допоміжна
+1. Sparke P. An Introduction to Design and Culture: 1900 to the Present. London : Routledge, 2019. 272 p.
+2. Norman D. The Design of Everyday Things. New York : Basic Books, 2013. 368 p.
+3. Maeda J. The Laws of Simplicity: Design, Technology, Business, Life. Cambridge, MA : MIT Press, 2020. 120 p.
+4. Lidwell W., Holden K., Butler J. Universal Principles of Design. Beverly : Rockport Publishers, 2019. 272 p.
+5. Lupton E. Design Is Storytelling. New York : Cooper Hewitt, Smithsonian Design Museum, 2017. 160 p.
+6. Krippendorff K. The Semantic Turn: A New Foundation for Design. Boca Raton : CRC Press, 2019. 304 p.
+7. Forty A. Objects of Desire: Design and Society Since 1750. London : Thames & Hudson, 2021. 248 p.
+8. Heskett J. Design: A Very Short Introduction. Oxford : Oxford University Press, 2022. 160 p.
+9. Poynor R. Design Without Boundaries: Visual Communication in Transition. London : Laurence King, 2020. 240 p.
+10. Meggs P. B., Purvis A. W. Meggs’ History of Graphic Design. Hoboken : Wiley, 2020. 696 p.
+11. Manovich L. Cultural Analytics. Cambridge, MA : MIT Press, 2020. 400 p.
+12. Manzini E. Design, When Everybody Designs: An Introduction to Design for Social Innovation. Cambridge, MA : MIT Press, 2015. 224 p.
+13. Frascara J. Design and the Social Sciences: Making Connections. Boca Raton : CRC Press, 2018. 200 p.
+14. Fiell C., Fiell P. Digital Design: A Critical Introduction. Köln : Taschen, 2022. 224 p.
+15. Dondis D. A Primer of Visual Literacy. Cambridge, MA : MIT Press, 2017. 212 p.
+16. Калініна І. Комунікаційні стратегії у професійному спілкуванні дизайнерів. Одеса : Астропринт, 2021. 140 с.
+
+17. Hall S. Representation: Cultural Representations and Signifying Practices. London : Sage, 2019. 400 p.
+18. Patera M. Intercultural Communication in Art and Design Education. London : Routledge, 2022. 180 p.
+19. Prokopov D. Ukrainian Design: From Folk Motifs to Modern Identity. Kyiv : Design Publishing, 2023. 180 p.
+20. Бессонова І. Англійська мова за професійним спрямуванням. Частина ІІІ. Дизайн. Університет «Україна», 2017. 416 с
+21. English for Technologists and Designers: Навчальний посібник / Г.В.Вальчук, О.В.Ємець, Т.Д.Жолобова, В.І.Козубай. Хмельницький: ХНУ,
+2016. 171 с.
+22. Muller J., Wiedemann J. The History of Graphic Design. Taschen Publishers, 2018. 480 p.
+Інтернет-ресурси
+1 https://www.youtube.com/watch?v=1NNsE9Z_j7M&ab_channel=SilveryLLC – «Майкрософт-дизайн».
+2 Он-лайн бібліотека. http://www.lib.com.ua
+3 https://en.islcollective.com/english-esl-video-lessons/listening-comprehension/deep-listening-focus-on-meaning/technical-english/graphics-
+designfundamentals/147029 - основи дизайну
+4 https://www.youtube.com/watch?v=9CUjO1LBo0o&ab_channel=1StepEnglish дизайн інтер’єру.
+5 https://www.youtube.com/watch?v=uwalf_yHW2E&ab_channel=m.sgraphics – лого-дизайн
+6 https://www.creativebloq.com/graphic-design/names-designers-should-know-6133211 - найвідоміші дизайнери

@@ -1,0 +1,15 @@
+{
+  "txt_surveys": {
+    "total_graduates": 32,
+    "total_employers": 9,
+    "programs": 3,
+    "key_finding_ikt_gd_dissatisfied_pct": 33.3,
+    "key_finding_ikt_ds_low_rated_pct": 85.7,
+    "employer_ai_recommendation": true
+  },
+  "moodle_surveys": {
+    "total_respondents": 61,
+    "programs": 3,
+    "questions": 50
+  }
+}

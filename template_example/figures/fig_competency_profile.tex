@@ -1,0 +1,55 @@
+\resizebox{\textwidth}{!}{%
+\begin{tikzpicture}
+
+% Title
+\node[dia/header=14cm] (title) {КОМПЕТЕНТНІСНИЙ ПРОФІЛЬ УЧИТЕЛЯ ІНФОРМАТИКИ ЯК РОЗРОБНИКА ІОР};
+
+% Three competency domain boxes
+\node[dia/lrbox=4cm, below=1.5cm of title.south, xshift=-5cm] (tech) {%
+  \textbf{Технологічна компетентність}\\[3pt]
+  \textbullet~WebGL / Three.js;\\
+  \textbullet~MindAR / AR.js;\\
+  \textbullet~TensorFlow.js;\\
+  \textbullet~WebXR Device API;\\
+  \textbullet~3D-моделювання%
+};
+
+\node[dia/lrbox=4cm, below=1.5cm of title.south] (ped) {%
+  \textbf{Педагогічна компетентність}\\[3pt]
+  \textbullet~дидактичний дизайн ІОР;\\
+  \textbullet~сценарування занурення;\\
+  \textbullet~оцінювання досвіду;\\
+  \textbullet~інклюзивний дизайн;\\
+  \textbullet~медіаграмотність%
+};
+
+\node[dia/lrbox=4cm, below=1.5cm of title.south, xshift=5cm] (integ) {%
+  \textbf{Інтегративна компетентність}\\[3pt]
+  \textbullet~проєктування ІОР;\\
+  \textbullet~міждисциплінарність;\\
+  \textbullet~рефлексивна практика;\\
+  \textbullet~громадянська освіта;\\
+  \textbullet~командна взаємодія%
+};
+
+% Arrows from title to domains
+\draw[dia/arrow] (title.south) -- (tech.north);
+\draw[dia/arrow] (title.south) -- (ped.north);
+\draw[dia/arrow] (title.south) -- (integ.north);
+
+% Convergence box below
+\node[dia/rbox=10cm, below=1.5cm of ped.south] (result) {%
+  Готовність до розробки імерсивних освітніх ресурсів%
+};
+
+% Arrows from domains to result
+\draw[dia/arrow] (tech.south) -- (result.north);
+\draw[dia/arrow] (ped.south) -- (result.north);
+\draw[dia/arrow] (integ.south) -- (result.north);
+
+% Bidirectional arrows between domains
+\draw[dia/darrow] (tech.east) -- (ped.west);
+\draw[dia/darrow] (ped.east) -- (integ.west);
+
+\end{tikzpicture}%
+}

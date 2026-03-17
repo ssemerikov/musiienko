@@ -1,0 +1,84 @@
+\documentclass[14pt,a4paper]{extreport}
+
+% Encoding and language
+\usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage[ukrainian]{babel}
+
+% Page layout
+\usepackage[left=30mm,right=15mm,top=20mm,bottom=20mm]{geometry}
+\usepackage{setspace}
+\onehalfspacing
+
+% Graphics and tables
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{multirow}
+\usepackage{array}
+\usepackage{float}
+\usepackage{subcaption}
+
+% Math and symbols
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+% References and citations
+\usepackage[backend=biber,style=numeric,sorting=none]{biblatex}
+\addbibresource{bibliography.bib}
+
+% Hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    citecolor=blue,
+    urlcolor=blue
+}
+
+% Code listings
+\usepackage{listings}
+\lstset{
+    basicstyle=\ttfamily\small,
+    breaklines=true,
+    frame=single
+}
+
+% Custom commands
+\newcommand{\ua}[1]{\foreignlanguage{ukrainian}{#1}}
+
+\begin{document}
+
+% Title page
+\input{chapters/00_titlepage}
+
+% Table of contents
+\tableofcontents
+\newpage
+
+% List of figures and tables
+\listoffigures
+\listoftables
+\newpage
+
+% Chapters
+\input{chapters/01_introduction}
+\input{chapters/02_literature}
+\input{chapters/03_methodology}
+\input{chapters/04_data_description}
+\input{chapters/05_statistical_analysis}
+\input{chapters/06_nlp_analysis}
+\input{chapters/07_network_analysis}
+\input{chapters/08_gap_analysis}
+\input{chapters/09_comparative}
+\input{chapters/10_recommendations}
+\input{chapters/11_conclusions}
+
+% Bibliography
+\printbibliography[title={Список використаних джерел}]
+
+% Appendices
+\appendix
+\input{chapters/appendix_a}
+
+\end{document}
