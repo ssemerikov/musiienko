@@ -1,8 +1,0 @@
-[0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'main.blg'
-[161] biber:340> INFO - === вт бер 17, 2026, 23:43:42
-[201] Biber.pm:415> INFO - Reading 'main.bcf'
-[507] Biber.pm:952> INFO - Found 85 citekeys in bib section 0
-[544] Biber.pm:4340> INFO - Processing section 0
-[565] Biber.pm:4531> INFO - Looking for bibtex format file 'references.bib' for section 0
-[2233] bibtex.pm:1689> INFO - LaTeX decoding ...

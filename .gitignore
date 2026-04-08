@@ -1,0 +1,27 @@
+# Claude Code
+.claude/
+
+# Git
+.git/
+
+# Articles (published papers)
+articles/
+
+# Template example
+template_example/
+
+# Thesis source and backup
+thesis/
+thesis_backup/
+
+# Documentation
+CLAUDE.md
+
+# PDF files
+dis_OsadchaKP_.pdf
+
+# Task files
+task.md
+
+# Docx files
+Пропозиції.docx
